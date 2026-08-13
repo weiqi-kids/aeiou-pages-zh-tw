@@ -1,5 +1,10 @@
-# robots.txt — 開放一般與 AI 爬蟲
-# Sitemap 行暫缺:sitemap 產生與提交屬明確延後(M2,網域註冊後),屆時補回
-# 「Sitemap: <SITE_URL><BASE_PATH>/sitemap-index.xml」
+# aeiou.now — public pages and machine-readable sources
 User-agent: *
 Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+Sitemap: https://weiqi-kids.github.io/aeiou-pages-zh-tw/sitemap.xml
