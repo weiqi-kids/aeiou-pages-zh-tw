@@ -1,357 +1,357 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/</loc>
+    <loc>https://aeiou.now/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/about/</loc>
+    <loc>https://aeiou.now/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topics/today/</loc>
+    <loc>https://aeiou.now/topics/today/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topics/nearby/</loc>
+    <loc>https://aeiou.now/topics/nearby/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topics/events/</loc>
+    <loc>https://aeiou.now/topics/events/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/24h/</loc>
+    <loc>https://aeiou.now/rankings/24h/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/72h/</loc>
+    <loc>https://aeiou.now/rankings/72h/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/7d/</loc>
+    <loc>https://aeiou.now/rankings/7d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/1m/</loc>
+    <loc>https://aeiou.now/rankings/1m/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/3m/</loc>
+    <loc>https://aeiou.now/rankings/3m/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/rankings/1y/</loc>
+    <loc>https://aeiou.now/rankings/1y/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/ask-the-world/</loc>
+    <loc>https://aeiou.now/topic/ask-the-world/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/ask-the-world.png</image:loc>
+      <image:loc>https://aeiou.now/covers/ask-the-world.png</image:loc>
       <image:title>Cross-border Questions and Answers</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/affection-and-reciprocity/</loc>
+    <loc>https://aeiou.now/topic/affection-and-reciprocity/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/affection-and-reciprocity.png</image:loc>
+      <image:loc>https://aeiou.now/covers/affection-and-reciprocity.png</image:loc>
       <image:title>Valentine&apos;s Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/back-to-school/</loc>
+    <loc>https://aeiou.now/topic/back-to-school/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/back-to-school.png</image:loc>
+      <image:loc>https://aeiou.now/covers/back-to-school.png</image:loc>
       <image:title>Back-to-School Season</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/birthdays-and-blessings/</loc>
+    <loc>https://aeiou.now/topic/birthdays-and-blessings/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/birthdays-and-blessings.png</image:loc>
+      <image:loc>https://aeiou.now/covers/birthdays-and-blessings.png</image:loc>
       <image:title>Birthdays and Blessings</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/caregiving-across-generations/</loc>
+    <loc>https://aeiou.now/topic/caregiving-across-generations/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/caregiving-across-generations.png</image:loc>
+      <image:loc>https://aeiou.now/covers/caregiving-across-generations.png</image:loc>
       <image:title>Family Care and Generations</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/childrens-day/</loc>
+    <loc>https://aeiou.now/topic/childrens-day/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/childrens-day.png</image:loc>
+      <image:loc>https://aeiou.now/covers/childrens-day.png</image:loc>
       <image:title>Children&apos;s Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/christmas/</loc>
+    <loc>https://aeiou.now/topic/christmas/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/christmas.png</image:loc>
+      <image:loc>https://aeiou.now/covers/christmas.png</image:loc>
       <image:title>Christmas</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/coming-of-age/</loc>
+    <loc>https://aeiou.now/topic/coming-of-age/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/coming-of-age.png</image:loc>
+      <image:loc>https://aeiou.now/covers/coming-of-age.png</image:loc>
       <image:title>Coming-of-Age Rites</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/diwali/</loc>
+    <loc>https://aeiou.now/topic/diwali/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/diwali.png</image:loc>
+      <image:loc>https://aeiou.now/covers/diwali.png</image:loc>
       <image:title>Diwali</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/dragon-boat-festival/</loc>
+    <loc>https://aeiou.now/topic/dragon-boat-festival/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/dragon-boat-festival.png</image:loc>
+      <image:loc>https://aeiou.now/covers/dragon-boat-festival.png</image:loc>
       <image:title>Dragon Boat Festival</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/easter/</loc>
+    <loc>https://aeiou.now/topic/easter/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/easter.png</image:loc>
+      <image:loc>https://aeiou.now/covers/easter.png</image:loc>
       <image:title>Easter</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/eid-al-adha/</loc>
+    <loc>https://aeiou.now/topic/eid-al-adha/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/eid-al-adha.png</image:loc>
+      <image:loc>https://aeiou.now/covers/eid-al-adha.png</image:loc>
       <image:title>Eid al-Adha</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/farewells-and-funerals/</loc>
+    <loc>https://aeiou.now/topic/farewells-and-funerals/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/farewells-and-funerals.png</image:loc>
+      <image:loc>https://aeiou.now/covers/farewells-and-funerals.png</image:loc>
       <image:title>Farewells and Funerals</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/fathers-day/</loc>
+    <loc>https://aeiou.now/topic/fathers-day/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/fathers-day.png</image:loc>
+      <image:loc>https://aeiou.now/covers/fathers-day.png</image:loc>
       <image:title>Father&apos;s Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/ghosts-ancestors-and-remembrance/</loc>
+    <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/ghosts-ancestors-and-remembrance.png</image:loc>
+      <image:loc>https://aeiou.now/covers/ghosts-ancestors-and-remembrance.png</image:loc>
       <image:title>Ghosts, Ancestors, and Remembrance</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/graduation-season/</loc>
+    <loc>https://aeiou.now/topic/graduation-season/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/graduation-season.png</image:loc>
+      <image:loc>https://aeiou.now/covers/graduation-season.png</image:loc>
       <image:title>Graduation Season</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/harvest-and-gratitude/</loc>
+    <loc>https://aeiou.now/topic/harvest-and-gratitude/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/harvest-and-gratitude.png</image:loc>
+      <image:loc>https://aeiou.now/covers/harvest-and-gratitude.png</image:loc>
       <image:title>Harvest and Gratitude</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/homecoming-and-reunion/</loc>
+    <loc>https://aeiou.now/topic/homecoming-and-reunion/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/homecoming-and-reunion.png</image:loc>
+      <image:loc>https://aeiou.now/covers/homecoming-and-reunion.png</image:loc>
       <image:title>Homecoming and Reunion</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/labour-day/</loc>
+    <loc>https://aeiou.now/topic/labour-day/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/labour-day.png</image:loc>
+      <image:loc>https://aeiou.now/covers/labour-day.png</image:loc>
       <image:title>Labour Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/lantern-festival/</loc>
+    <loc>https://aeiou.now/topic/lantern-festival/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/lantern-festival.png</image:loc>
+      <image:loc>https://aeiou.now/covers/lantern-festival.png</image:loc>
       <image:title>Lantern Festival</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/mid-autumn-and-moon-viewing/</loc>
+    <loc>https://aeiou.now/topic/mid-autumn-and-moon-viewing/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/mid-autumn-and-moon-viewing.png</image:loc>
+      <image:loc>https://aeiou.now/covers/mid-autumn-and-moon-viewing.png</image:loc>
       <image:title>Mid-Autumn and Moon Viewing</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/mothers-day/</loc>
+    <loc>https://aeiou.now/topic/mothers-day/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/mothers-day.png</image:loc>
+      <image:loc>https://aeiou.now/covers/mothers-day.png</image:loc>
       <image:title>Mother&apos;s Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/moving-home/</loc>
+    <loc>https://aeiou.now/topic/moving-home/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/moving-home.png</image:loc>
+      <image:loc>https://aeiou.now/covers/moving-home.png</image:loc>
       <image:title>Moving Home and Housewarming</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/national-days/</loc>
+    <loc>https://aeiou.now/topic/national-days/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/national-days.png</image:loc>
+      <image:loc>https://aeiou.now/covers/national-days.png</image:loc>
       <image:title>National Days</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/new-year/</loc>
+    <loc>https://aeiou.now/topic/new-year/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/new-year.png</image:loc>
+      <image:loc>https://aeiou.now/covers/new-year.png</image:loc>
       <image:title>New Year</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/newborn-and-full-moon/</loc>
+    <loc>https://aeiou.now/topic/newborn-and-full-moon/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/newborn-and-full-moon.png</image:loc>
+      <image:loc>https://aeiou.now/covers/newborn-and-full-moon.png</image:loc>
       <image:title>Newborns and the First Month</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/proposals-and-engagements/</loc>
+    <loc>https://aeiou.now/topic/proposals-and-engagements/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/proposals-and-engagements.png</image:loc>
+      <image:loc>https://aeiou.now/covers/proposals-and-engagements.png</image:loc>
       <image:title>Proposals and Engagements</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/ramadan-and-eid/</loc>
+    <loc>https://aeiou.now/topic/ramadan-and-eid/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/ramadan-and-eid.png</image:loc>
+      <image:loc>https://aeiou.now/covers/ramadan-and-eid.png</image:loc>
       <image:title>Ramadan and Eid al-Fitr</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/teachers-day/</loc>
+    <loc>https://aeiou.now/topic/teachers-day/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/teachers-day.png</image:loc>
+      <image:loc>https://aeiou.now/covers/teachers-day.png</image:loc>
       <image:title>Teachers&apos; Day</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/topic/weddings-and-customs/</loc>
+    <loc>https://aeiou.now/topic/weddings-and-customs/</loc>
     <lastmod>2026-08-15T04:00:01.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://weiqi-kids.github.io/aeiou-pages-zh-tw/covers/weddings-and-customs.png</image:loc>
+      <image:loc>https://aeiou.now/covers/weddings-and-customs.png</image:loc>
       <image:title>Weddings and Marriage Customs</image:title>
     </image:image>
   </url>
