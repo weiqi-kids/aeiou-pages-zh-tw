@@ -11,6 +11,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://aeiou.now/questions/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://aeiou.now/topics/today/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
