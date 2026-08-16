@@ -1,0 +1,1 @@
+function e(e){return Object.fromEntries(Object.entries(e||{}).filter(([,e])=>e!=null&&e!==``).map(([e,t])=>[e,typeof t==`string`?t.slice(0,100):t]))}function t(t,n={}){typeof window>`u`||typeof window.gtag!=`function`||window.gtag(`event`,t,e(n))}export{t};

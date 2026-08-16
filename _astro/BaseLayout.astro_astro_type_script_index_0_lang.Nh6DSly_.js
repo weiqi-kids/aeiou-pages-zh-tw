@@ -1,0 +1,1 @@
+import{t as e}from"./analytics.DaYtzoE6.js";document.addEventListener(`click`,t=>{let n=t.target&&typeof t.target.closest==`function`?t.target.closest(`a[data-topic-slug]`):null;n&&e(`topic_open`,{topic_slug:n.dataset.topicSlug,locale:document.documentElement.lang})},{capture:!0});
