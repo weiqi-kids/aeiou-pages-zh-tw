@@ -330,4 +330,34 @@
       <image:title>Weddings and Marriage Customs</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://aeiou.now/topic/exam-season/</loc>
+    <lastmod>2026-08-20T16:41:19.212Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/exam-season.png</image:loc>
+      <image:title>University Entrance Exam Season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/islamic-calendar-days/</loc>
+    <lastmod>2026-08-20T16:41:19.217Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/islamic-calendar-days.png</image:loc>
+      <image:title>Islamic New Year, Ashura, Mawlid, and Isra Mi&apos;raj</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/womens-day/</loc>
+    <lastmod>2026-08-20T16:41:19.221Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/womens-day.png</image:loc>
+      <image:title>International Women&apos;s Day and National Women&apos;s Days</image:title>
+    </image:image>
+  </url>
 </urlset>
