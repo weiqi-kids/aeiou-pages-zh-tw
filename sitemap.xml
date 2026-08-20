@@ -31,36 +31,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aeiou.now/rankings/24h/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/rankings/72h/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/rankings/7d/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/rankings/1m/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/rankings/3m/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/rankings/1y/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://aeiou.now/topic/ask-the-world/</loc>
     <lastmod>2026-08-19T14:52:10.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -122,7 +92,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/christmas/</loc>
-    <lastmod>2026-08-19T14:52:10.000Z</lastmod>
+    <lastmod>2026-08-20T00:17:27.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -142,7 +112,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/diwali/</loc>
-    <lastmod>2026-08-19T14:52:10.000Z</lastmod>
+    <lastmod>2026-08-20T00:23:33.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -252,7 +222,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/lantern-festival/</loc>
-    <lastmod>2026-08-19T14:52:10.000Z</lastmod>
+    <lastmod>2026-08-20T00:30:35.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -332,7 +302,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ramadan-and-eid/</loc>
-    <lastmod>2026-08-19T14:52:10.000Z</lastmod>
+    <lastmod>2026-08-20T00:27:19.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
