@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-22T11:14:11.778Z</lastmod>
+    <lastmod>2026-08-22T11:25:17.372Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,19 +20,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-22T11:14:11.778Z</lastmod>
+    <lastmod>2026-08-22T11:25:17.372Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-22T11:14:11.778Z</lastmod>
+    <lastmod>2026-08-22T11:25:17.372Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-22T11:14:11.778Z</lastmod>
+    <lastmod>2026-08-22T11:25:17.372Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -460,6 +460,16 @@
     <image:image>
       <image:loc>https://aeiou.now/covers/official-languages.png</image:loc>
       <image:title>Official Languages and Who Decides Them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/compulsory-education/</loc>
+    <lastmod>2026-08-22T11:25:17.372Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/compulsory-education.png</image:loc>
+      <image:title>Compulsory Education and Who Is Obliged</image:title>
     </image:image>
   </url>
 </urlset>
