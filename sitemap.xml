@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-22T11:37:12.669Z</lastmod>
+    <lastmod>2026-08-22T13:31:47.506Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,19 +20,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-22T11:37:12.669Z</lastmod>
+    <lastmod>2026-08-22T13:31:47.506Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-22T11:37:12.669Z</lastmod>
+    <lastmod>2026-08-22T13:31:47.506Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-22T11:37:12.669Z</lastmod>
+    <lastmod>2026-08-22T13:31:47.506Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -474,7 +474,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/religion-and-the-state/</loc>
-    <lastmod>2026-08-22T11:37:12.669Z</lastmod>
+    <lastmod>2026-08-22T13:31:47.506Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
