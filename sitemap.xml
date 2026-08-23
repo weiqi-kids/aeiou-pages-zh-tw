@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-23T12:38:56.048Z</lastmod>
+    <lastmod>2026-08-23T12:58:29.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,19 +20,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-23T12:38:56.048Z</lastmod>
+    <lastmod>2026-08-23T12:58:29.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-23T12:38:56.048Z</lastmod>
+    <lastmod>2026-08-23T12:58:29.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-23T12:38:56.048Z</lastmod>
+    <lastmod>2026-08-23T12:58:29.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -490,6 +490,16 @@
     <image:image>
       <image:loc>https://aeiou.now/covers/pets-and-family.png</image:loc>
       <image:title>Pets, Animals, and Family Life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/pet-preparedness/</loc>
+    <lastmod>2026-08-23T12:58:29.930Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/pet-preparedness.png</image:loc>
+      <image:title>Pet Preparedness and Disaster Planning</image:title>
     </image:image>
   </url>
 </urlset>
