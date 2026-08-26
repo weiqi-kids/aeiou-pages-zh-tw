@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-26T16:03:00.927Z</lastmod>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,19 +20,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-26T16:03:00.927Z</lastmod>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-26T16:03:00.927Z</lastmod>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-26T16:03:00.927Z</lastmod>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -730,7 +730,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -740,37 +740,31 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/cn/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/jp/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/tw/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/us/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/id/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/in/</loc>
-    <lastmod>2026-08-26T16:03:00.832Z</lastmod>
+    <lastmod>2026-08-26T16:46:58.102Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2237,6 +2231,58 @@
   <url>
     <loc>https://aeiou.now/topic/carnival/tw/</loc>
     <lastmod>2026-08-26T15:00:47.521Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/war-dead-and-veterans.png</image:loc>
+      <image:title>Memorial Days, Veterans Days, and the War Dead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/br/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/cn/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/id/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/in/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/jp/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/tw/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/war-dead-and-veterans/us/</loc>
+    <lastmod>2026-08-26T16:52:16.391Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
