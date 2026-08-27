@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -164,19 +164,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -308,37 +308,37 @@
   </url>
   <url>
     <loc>https://aeiou.now/rankings/24h/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/72h/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/7d/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1m/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/3m/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1y/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -354,7 +354,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/affection-and-reciprocity/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -406,7 +406,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/back-to-school/</loc>
-    <lastmod>2026-08-27T15:53:12.277Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -614,7 +614,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/christmas/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -844,7 +844,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/eid-al-adha/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1046,7 +1046,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/graduation-season/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1202,7 +1202,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/labour-day/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1444,7 +1444,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/national-days/</loc>
-    <lastmod>2026-08-27T15:53:12.277Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1496,7 +1496,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/new-year/</loc>
-    <lastmod>2026-08-27T15:53:12.277Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1628,7 +1628,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ramadan-and-eid/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1680,7 +1680,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/</loc>
-    <lastmod>2026-08-27T15:53:12.277Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1888,7 +1888,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/womens-day/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1992,7 +1992,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/year-end-bonus/</loc>
-    <lastmod>2026-08-27T15:53:12.277Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2044,7 +2044,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/voting-and-elections/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2096,7 +2096,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/parental-leave/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2148,7 +2148,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/military-service/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2200,7 +2200,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/official-languages/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2252,7 +2252,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/compulsory-education/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2304,7 +2304,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/religion-and-the-state/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2772,7 +2772,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/environment-days/</loc>
-    <lastmod>2026-08-27T16:09:31.725Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2824,7 +2824,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/founders-and-national-leaders/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2928,7 +2928,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/long-holiday-weeks/</loc>
-    <lastmod>2026-08-27T11:01:09.997Z</lastmod>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3184,6 +3184,318 @@
     <loc>https://aeiou.now/topic/equinox-and-seasonal-turns/br/</loc>
     <lastmod>2026-08-27T11:01:09.997Z</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/entrance-exams.png</image:loc>
+      <image:title>University Entrance Exams and What Else Counts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/entrance-exams/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/health-coverage.png</image:loc>
+      <image:title>Health Coverage and Who Pays for Seeing a Doctor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/health-coverage/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/minimum-wage.png</image:loc>
+      <image:title>Minimum Wage: Who Sets It and Who It Covers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/minimum-wage/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/paid-leave-and-overtime.png</image:loc>
+      <image:title>Paid Leave and Overtime</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/paid-leave-and-overtime/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/renting-a-home.png</image:loc>
+      <image:title>Renting a Home: Deposits, Contracts, and What the Landlord May Do</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/renting-a-home/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aeiou.now/covers/residency-and-visas.png</image:loc>
+      <image:title>Residence Permits and What Foreign Residents Must Register</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/br/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/cn/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/id/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/in/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/jp/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/tw/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/residency-and-visas/us/</loc>
+    <lastmod>2026-08-27T18:16:06.856Z</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 </urlset>
