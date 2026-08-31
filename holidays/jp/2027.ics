@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:日本 2027
+BEGIN:VEVENT
+UID:holiday-jp-2027-ganjitsu@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-seijin-no-hi@aeiou.now
+DTSTAMP:20270111T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:成人之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-kenkoku-kinen-no-hi@aeiou.now
+DTSTAMP:20270211T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:建國紀念之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://laws.e-gov.go.jp/law/341CO0000000376
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-tenno-tanjobi@aeiou.now
+DTSTAMP:20270223T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:天皇誕生日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-shunbun-no-hi@aeiou.now
+DTSTAMP:20270321T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:春分之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://www.nao.ac.jp/faq/a0301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-furikae-2027-03-22@aeiou.now
+DTSTAMP:20270322T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:補假（振替休日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-showa-no-hi@aeiou.now
+DTSTAMP:20270429T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:昭和之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-kenpo-kinenbi@aeiou.now
+DTSTAMP:20270503T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:憲法紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-midori-no-hi@aeiou.now
+DTSTAMP:20270504T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:綠之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-kodomo-no-hi@aeiou.now
+DTSTAMP:20270505T000000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-umi-no-hi@aeiou.now
+DTSTAMP:20270719T000000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:海之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-yama-no-hi@aeiou.now
+DTSTAMP:20270811T000000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:山之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-keiro-no-hi@aeiou.now
+DTSTAMP:20270920T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:敬老之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-shubun-no-hi@aeiou.now
+DTSTAMP:20270923T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:秋分之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://www.nao.ac.jp/faq/a0301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-sports-no-hi@aeiou.now
+DTSTAMP:20271011T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:運動之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-bunka-no-hi@aeiou.now
+DTSTAMP:20271103T000000Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:文化之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-kinro-kansha-no-hi@aeiou.now
+DTSTAMP:20271123T000000Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:勤勞感謝之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2027-nenmatsu-nenshi@aeiou.now
+DTSTAMP:20271229T000000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20280104
+SUMMARY:年末年初假期
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://laws.e-gov.go.jp/law/363AC0000000091
+END:VEVENT
+END:VCALENDAR

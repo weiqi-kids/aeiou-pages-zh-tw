@@ -1,0 +1,1 @@
+import{t as e}from"./analytics.DaYtzoE6.js";document.querySelectorAll(`[data-calendar-asset]`).forEach(t=>{t.addEventListener(`click`,()=>{e(`calendar_asset_click`,{asset_type:t.dataset.calendarAsset,country_code:t.dataset.calendarCountry,year:t.dataset.calendarYear,locale:document.documentElement.lang})})});

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:美國 2028
+BEGIN:VEVENT
+UID:holiday-us-2028-new-years-day@aeiou.now
+DTSTAMP:20271231T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-martin-luther-king-jr-day@aeiou.now
+DTSTAMP:20280117T000000Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:馬丁·路德·金恩紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-washingtons-birthday@aeiou.now
+DTSTAMP:20280221T000000Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+SUMMARY:華盛頓誕辰紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-memorial-day@aeiou.now
+DTSTAMP:20280529T000000Z
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+SUMMARY:陣亡將士紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-juneteenth@aeiou.now
+DTSTAMP:20280619T000000Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:六月節全國獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-independence-day@aeiou.now
+DTSTAMP:20280704T000000Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-labor-day@aeiou.now
+DTSTAMP:20280904T000000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-columbus-day@aeiou.now
+DTSTAMP:20281009T000000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:哥倫布日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-veterans-day@aeiou.now
+DTSTAMP:20281110T000000Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:退伍軍人節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-thanksgiving-day@aeiou.now
+DTSTAMP:20281123T000000Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:感恩節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+END:VCALENDAR

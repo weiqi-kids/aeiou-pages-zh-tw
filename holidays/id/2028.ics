@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:印尼 2028
+BEGIN:VEVENT
+UID:holiday-id-2028-tahun-baru-masehi@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf https://setkab.go.id/inilah-isi-keppres-nomor-8-tahun-2024-tentang-hari-hari-libur/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-tahun-baru-imlek@aeiou.now
+DTSTAMP:20280126T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:農曆新年
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-raya-idulfitri@aeiou.now
+DTSTAMP:20280226T000000Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280228
+SUMMARY:開齋節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-suci-nyepi@aeiou.now
+DTSTAMP:20280326T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:安寧日（薩卡曆新年）
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-wafat-yesus-kristus@aeiou.now
+DTSTAMP:20280414T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-kebangkitan-yesus-kristus@aeiou.now
+DTSTAMP:20280416T000000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:復活節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-buruh-internasional@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:國際勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf https://setkab.go.id/inilah-isi-keppres-nomor-8-tahun-2024-tentang-hari-hari-libur/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-raya-iduladha@aeiou.now
+DTSTAMP:20280505T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:宰牲節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-raya-waisak@aeiou.now
+DTSTAMP:20280509T000000Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:衛塞節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-kenaikan-yesus-kristus@aeiou.now
+DTSTAMP:20280525T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:耶穌升天節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-tahun-baru-islam@aeiou.now
+DTSTAMP:20280525T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:伊斯蘭曆新年
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-hari-lahir-pancasila@aeiou.now
+DTSTAMP:20280601T000000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:潘查希拉日（建國五原則）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf https://setkab.go.id/inilah-isi-keppres-nomor-8-tahun-2024-tentang-hari-hari-libur/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-maulid-nabi-muhammad@aeiou.now
+DTSTAMP:20280803T000000Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:聖紀節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-proklamasi-kemerdekaan@aeiou.now
+DTSTAMP:20280817T000000Z
+DTSTART;VALUE=DATE:20280817
+DTEND;VALUE=DATE:20280818
+SUMMARY:獨立宣言紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf https://setkab.go.id/inilah-isi-keppres-nomor-8-tahun-2024-tentang-hari-hari-libur/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-isra-mikraj@aeiou.now
+DTSTAMP:20281214T000000Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:登霄節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-id-2028-kelahiran-yesus-kristus@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2026 https://www.kemenkopmk.go.id/sites/default/files/pengumuman/2025-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202026.pdf https://setkab.go.id/inilah-isi-keppres-nomor-8-tahun-2024-tentang-hari-hari-libur/
+END:VEVENT
+END:VCALENDAR

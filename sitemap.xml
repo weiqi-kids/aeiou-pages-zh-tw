@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/questions/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -115,6 +115,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://aeiou.now/questions/labour-day/</loc>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aeiou.now/questions/lantern-festival/</loc>
     <lastmod>2026-08-31T00:11:31.073Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,7 +152,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/questions/teachers-day/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -164,181 +170,181 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/br/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/br/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/br/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/cn/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/cn/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/cn/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/id/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/id/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/id/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/in/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/in/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/in/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/jp/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/jp/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/jp/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/tw/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/tw/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/tw/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/us/2026/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/us/2027/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/holidays/us/2028/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/24h/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/72h/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/7d/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1m/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/3m/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1y/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -354,7 +360,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/affection-and-reciprocity/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -406,7 +412,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/back-to-school/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -458,7 +464,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/birthdays-and-blessings/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -562,7 +568,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/childrens-day/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -614,7 +620,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/christmas/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -694,7 +700,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/diwali/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -746,7 +752,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/dragon-boat-festival/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -792,7 +798,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/easter/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -844,7 +850,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/eid-al-adha/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -948,7 +954,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/fathers-day/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1000,7 +1006,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ghosts-ancestors-and-remembrance/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1098,7 +1104,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/harvest-and-gratitude/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1150,7 +1156,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/homecoming-and-reunion/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1202,7 +1208,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/labour-day/</loc>
-    <lastmod>2026-08-31T05:11:10.665Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1242,7 +1248,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/lantern-festival/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1294,7 +1300,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/mid-autumn-and-moon-viewing/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1340,7 +1346,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/mothers-day/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1444,7 +1450,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/national-days/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1496,7 +1502,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/new-year/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1506,19 +1512,25 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/new-year/cn/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/new-year/id/</loc>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/new-year/in/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/new-year/tw/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1628,7 +1640,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/ramadan-and-eid/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1680,7 +1692,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1690,43 +1702,49 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/br/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/cn/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/id/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/in/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aeiou.now/topic/teachers-day/sg/</loc>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/tw/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/us/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topic/teachers-day/jp/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1784,7 +1802,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/exam-season/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1836,7 +1854,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/islamic-calendar-days/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1888,7 +1906,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/womens-day/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1940,7 +1958,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/elders-day/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1992,7 +2010,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/year-end-bonus/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2512,7 +2530,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/war-dead-and-veterans/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2564,7 +2582,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/christian-calendar-days/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2616,7 +2634,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/halloween/</loc>
-    <lastmod>2026-08-31T04:12:10.747Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2668,7 +2686,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/indigenous-and-colonial-memory/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2720,7 +2738,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/emancipation-and-abolition/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2772,7 +2790,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/environment-days/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2824,7 +2842,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/founders-and-national-leaders/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2928,7 +2946,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/long-holiday-weeks/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2980,7 +2998,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/shopping-festivals/</loc>
-    <lastmod>2026-08-31T03:11:17.123Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3084,7 +3102,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/tanabata-and-qixi/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3136,7 +3154,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/topic/equinox-and-seasonal-turns/</loc>
-    <lastmod>2026-08-31T00:11:31.073Z</lastmod>
+    <lastmod>2026-08-31T06:58:34.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>

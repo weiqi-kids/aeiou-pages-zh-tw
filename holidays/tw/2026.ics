@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:台灣 2026
+BEGIN:VEVENT
+UID:holiday-tw-2026-founding-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:中華民國開國紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-firefighters-day@aeiou.now
+DTSTAMP:20260119T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:消防節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-lunar-new-years-eve-eve@aeiou.now
+DTSTAMP:20260215T000000Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:除夕前一日（小年夜）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-lunar-new-years-eve@aeiou.now
+DTSTAMP:20260216T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:除夕
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-lunar-new-year@aeiou.now
+DTSTAMP:20260217T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260220
+SUMMARY:春節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-lunar-new-year-makeup@aeiou.now
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:除夕及春節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-peace-memorial-day-makeup@aeiou.now
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:和平紀念日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-peace-memorial-day@aeiou.now
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:和平紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-childrens-day-makeup@aeiou.now
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:兒童節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-childrens-day@aeiou.now
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-tomb-sweeping-day@aeiou.now
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:清明節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-tomb-sweeping-day-makeup@aeiou.now
+DTSTAMP:20260406T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:清明節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-labour-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-police-day@aeiou.now
+DTSTAMP:20260615T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:警察節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-dragon-boat-festival@aeiou.now
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:端午節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-armed-forces-day@aeiou.now
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:軍人節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-mid-autumn-festival@aeiou.now
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:中秋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983 https://www.cwa.gov.tw/Data/astronomy/2028cal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-confucius-birthday-teachers-day@aeiou.now
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:孔子誕辰紀念日／教師節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-national-day-makeup@aeiou.now
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:國慶日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-national-day@aeiou.now
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:國慶日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-retrocession-and-guningtou-victory-day@aeiou.now
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:臺灣光復暨金門古寧頭大捷紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-retrocession-and-guningtou-victory-day-makeup@aeiou.now
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:臺灣光復暨金門古寧頭大捷紀念日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-coast-guard-day@aeiou.now
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:海巡節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-tw-2026-constitution-day@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:行憲紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020095 https://www.dgpa.gov.tw/information?uid=2&pid=12574 https://www.dgpa.gov.tw/information?uid=82&pid=12983
+END:VEVENT
+END:VCALENDAR

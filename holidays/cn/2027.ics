@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:中國 2027
+BEGIN:VEVENT
+UID:holiday-cn-2027-yuandan@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-chunjie@aeiou.now
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270209
+SUMMARY:春節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-funvjie@aeiou.now
+DTSTAMP:20270308T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:婦女節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-qingmingjie@aeiou.now
+DTSTAMP:20270405T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:清明節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-laodongjie@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-qingnianjie@aeiou.now
+DTSTAMP:20270504T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:青年節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-ertongjie@aeiou.now
+DTSTAMP:20270601T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:兒童節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-duanwujie@aeiou.now
+DTSTAMP:20270609T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:端午節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-jianjunjie@aeiou.now
+DTSTAMP:20270801T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:中國人民解放軍建軍紀念日
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-zhongqiujie@aeiou.now
+DTSTAMP:20270915T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:中秋節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2027-guoqingjie@aeiou.now
+DTSTAMP:20271001T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271004
+SUMMARY:國慶節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+END:VCALENDAR

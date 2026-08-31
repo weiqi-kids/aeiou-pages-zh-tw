@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:中國 2028
+BEGIN:VEVENT
+UID:holiday-cn-2028-yuandan@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-chunjie@aeiou.now
+DTSTAMP:20280125T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280129
+SUMMARY:春節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-funvjie@aeiou.now
+DTSTAMP:20280308T000000Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:婦女節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-qingmingjie@aeiou.now
+DTSTAMP:20280404T000000Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:清明節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-laodongjie@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280503
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-qingnianjie@aeiou.now
+DTSTAMP:20280504T000000Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:青年節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-duanwujie@aeiou.now
+DTSTAMP:20280528T000000Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:端午節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-ertongjie@aeiou.now
+DTSTAMP:20280601T000000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:兒童節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-jianjunjie@aeiou.now
+DTSTAMP:20280801T000000Z
+DTSTART;VALUE=DATE:20280801
+DTEND;VALUE=DATE:20280802
+SUMMARY:中國人民解放軍建軍紀念日
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-guoqingjie@aeiou.now
+DTSTAMP:20281001T000000Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281004
+SUMMARY:國慶節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2028-zhongqiujie@aeiou.now
+DTSTAMP:20281003T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:中秋節
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+END:VCALENDAR

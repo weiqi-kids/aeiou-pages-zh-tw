@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:日本 2028
+BEGIN:VEVENT
+UID:holiday-jp-2028-ganjitsu@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-seijin-no-hi@aeiou.now
+DTSTAMP:20280110T000000Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:成人之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-kenkoku-kinen-no-hi@aeiou.now
+DTSTAMP:20280211T000000Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:建國紀念之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://laws.e-gov.go.jp/law/341CO0000000376
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-tenno-tanjobi@aeiou.now
+DTSTAMP:20280223T000000Z
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:天皇誕生日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-shunbun-no-hi@aeiou.now
+DTSTAMP:20280320T000000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:春分之日
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://www.nao.ac.jp/faq/a0301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-showa-no-hi@aeiou.now
+DTSTAMP:20280429T000000Z
+DTSTART;VALUE=DATE:20280429
+DTEND;VALUE=DATE:20280430
+SUMMARY:昭和之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-kenpo-kinenbi@aeiou.now
+DTSTAMP:20280503T000000Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:憲法紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-midori-no-hi@aeiou.now
+DTSTAMP:20280504T000000Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:綠之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-kodomo-no-hi@aeiou.now
+DTSTAMP:20280505T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-umi-no-hi@aeiou.now
+DTSTAMP:20280717T000000Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:海之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-yama-no-hi@aeiou.now
+DTSTAMP:20280811T000000Z
+DTSTART;VALUE=DATE:20280811
+DTEND;VALUE=DATE:20280812
+SUMMARY:山之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-keiro-no-hi@aeiou.now
+DTSTAMP:20280918T000000Z
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
+SUMMARY:敬老之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-shubun-no-hi@aeiou.now
+DTSTAMP:20280922T000000Z
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:秋分之日
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178 https://www.nao.ac.jp/faq/a0301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-sports-no-hi@aeiou.now
+DTSTAMP:20281009T000000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:運動之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-bunka-no-hi@aeiou.now
+DTSTAMP:20281103T000000Z
+DTSTART;VALUE=DATE:20281103
+DTEND;VALUE=DATE:20281104
+SUMMARY:文化之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-kinro-kansha-no-hi@aeiou.now
+DTSTAMP:20281123T000000Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:勤勞感謝之日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html https://laws.e-gov.go.jp/law/323AC1000000178
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-jp-2028-nenmatsu-nenshi@aeiou.now
+DTSTAMP:20281229T000000Z
+DTSTART;VALUE=DATE:20281229
+DTEND;VALUE=DATE:20290104
+SUMMARY:年末年初假期
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://laws.e-gov.go.jp/law/363AC0000000091
+END:VEVENT
+END:VCALENDAR

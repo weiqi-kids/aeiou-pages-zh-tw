@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:巴西 2027
+BEGIN:VEVENT
+UID:holiday-br-2027-confraternizacao-universal@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-carnaval-segunda-feira@aeiou.now
+DTSTAMP:20270208T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:嘉年華（星期一）
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-carnaval-terca-feira@aeiou.now
+DTSTAMP:20270209T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:嘉年華（星期二）
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-quarta-feira-de-cinzas@aeiou.now
+DTSTAMP:20270210T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:聖灰星期三
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-paixao-de-cristo@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1995/lei-9093-12-setembro-1995-348594-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-tiradentes@aeiou.now
+DTSTAMP:20270421T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:蒂拉登特斯紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-dia-mundial-do-trabalho@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-corpus-christi@aeiou.now
+DTSTAMP:20270527T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:基督聖體聖血節
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-independencia-do-brasil@aeiou.now
+DTSTAMP:20270907T000000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:巴西獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-nossa-senhora-aparecida@aeiou.now
+DTSTAMP:20271012T000000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:阿帕雷西達聖母節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-6802-30-junho-1980-357065-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-dia-do-servidor-publico@aeiou.now
+DTSTAMP:20271028T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:公務人員節
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-normaatualizada-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-finados@aeiou.now
+DTSTAMP:20271102T000000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:諸靈節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-proclamacao-da-republica@aeiou.now
+DTSTAMP:20271115T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:共和國宣告日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-consciencia-negra@aeiou.now
+DTSTAMP:20271120T000000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:黑人意識日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/2023/lei-14759-21-dezembro-2023-795091-publicacaooriginal-170522-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-vespera-do-natal@aeiou.now
+DTSTAMP:20271224T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:平安夜
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-natal@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-normaatualizada-pl.html https://www2.camara.leg.br/legin/fed/lei/2002/lei-10607-19-dezembro-2002-473572-publicacaooriginal-1-pl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-br-2027-vespera-do-ano-novo@aeiou.now
+DTSTAMP:20271231T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:新年前夕
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://legis.sigepe.gov.br/sigepe-bgp-ws-legis/legis-service/download/?id=0026440285-ALPDF%2F2025 https://www.gov.br/mre/pt-br/eresp/feriados-e-pontos-facultativos
+END:VEVENT
+END:VCALENDAR
