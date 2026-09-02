@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aeiou.now/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://aeiou.now/questions/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -170,19 +170,19 @@
   </url>
   <url>
     <loc>https://aeiou.now/topics/today/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aeiou.now/topics/events/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -314,37 +314,37 @@
   </url>
   <url>
     <loc>https://aeiou.now/rankings/24h/</loc>
-    <lastmod>2026-09-01T00:11:21.064Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/72h/</loc>
-    <lastmod>2026-09-01T05:09:45.629Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/7d/</loc>
-    <lastmod>2026-09-01T05:09:45.629Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1m/</loc>
-    <lastmod>2026-09-01T05:09:45.629Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/3m/</loc>
-    <lastmod>2026-09-01T05:09:45.629Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://aeiou.now/rankings/1y/</loc>
-    <lastmod>2026-09-01T05:09:45.629Z</lastmod>
+    <lastmod>2026-09-02T00:10:44.194Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
