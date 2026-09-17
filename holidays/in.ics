@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//aeiou.now//Annual holiday calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:印度 2026
-X-WR-CALDESC:2026 年印度共有 17 天法定假日。
+X-WR-CALNAME:印度
+X-WR-CALDESC:2026 年印度共有 17 天法定假日。 2027 年印度共
+ 有 17 天法定假日。 2028 年印度共有 17 天法定假日。
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
@@ -226,5 +227,135 @@ DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
  gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
  6-069492ddf80fa39-36385303.pdf
 URL:https://aeiou.now/holidays/in/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-republic-day@aeiou.now
+DTSTAMP:20270126T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:印度共和國日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-good-friday@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-independence-day@aeiou.now
+DTSTAMP:20270815T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:印度獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-gandhi-jayanti@aeiou.now
+DTSTAMP:20271002T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:甘地誕辰紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-christmas-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2028-republic-day@aeiou.now
+DTSTAMP:20280126T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:印度共和國日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2028-good-friday@aeiou.now
+DTSTAMP:20280414T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2028-independence-day@aeiou.now
+DTSTAMP:20280815T000000Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:印度獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2028-gandhi-jayanti@aeiou.now
+DTSTAMP:20281002T000000Z
+DTSTART;VALUE=DATE:20281002
+DTEND;VALUE=DATE:20281003
+SUMMARY:甘地誕辰紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag
+ .gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://df
+ e.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.
+ gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-202
+ 6-069492ddf80fa39-36385303.pdf
+URL:https://aeiou.now/holidays/in/2028/
 END:VEVENT
 END:VCALENDAR
