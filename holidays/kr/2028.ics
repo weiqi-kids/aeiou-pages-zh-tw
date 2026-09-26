@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:南韓 2028
+X-WR-CALDESC:2028 年南韓共有 15 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-kr-2028-new-years-day@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-samiljeol@aeiou.now
+DTSTAMP:20280301T000000Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:三一節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-labor-day@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공휴일에관한법률 https://www.korea.kr/news/policyNewsVie
+ w.do?newsId=148962129
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-childrens-day@aeiou.now
+DTSTAMP:20280505T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-memorial-day@aeiou.now
+DTSTAMP:20280606T000000Z
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280607
+SUMMARY:顯忠日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-constitution-day@aeiou.now
+DTSTAMP:20280717T000000Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:制憲節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률 https://www.kasa.go.kr/prog/plcyBrf/bri
+ ef/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-liberation-day@aeiou.now
+DTSTAMP:20280815T000000Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:光復節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-national-foundation-day@aeiou.now
+DTSTAMP:20281003T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:開天節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-hangul-day@aeiou.now
+DTSTAMP:20281009T000000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:韓文日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2028-christmas@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2028/
+END:VEVENT
+END:VCALENDAR

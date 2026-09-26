@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:新加坡 2028
+X-WR-CALDESC:2028 年新加坡共有 11 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-sg-2028-new-years-day@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-labour-day@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-national-day@aeiou.now
+DTSTAMP:20280809T000000Z
+DTSTART;VALUE=DATE:20280809
+DTEND;VALUE=DATE:20280810
+SUMMARY:國慶日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+END:VCALENDAR

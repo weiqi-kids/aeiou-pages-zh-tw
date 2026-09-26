@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:泰國 2028
+X-WR-CALDESC:2028 年泰國共有 21 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-th-2028-new-year@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-chakri-day@aeiou.now
+DTSTAMP:20280406T000000Z
+DTSTART;VALUE=DATE:20280406
+DTEND;VALUE=DATE:20280407
+SUMMARY:卻克里王朝紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-songkran@aeiou.now
+DTSTAMP:20280413T000000Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280416
+SUMMARY:宋干節（潑水節）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-labour-day@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .prd.go.th/th/content/category/detail/id/31/iid/317254 https://www.mol.go.
+ th/forums/topic/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%
+ B8%99%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8
+ %94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9
+ E%E0%B8%93%E0%B8%B5-13-%E0%B8%A7%E0%B8%B1%E0%B8%99 https://ratchakitcha.so
+ c.go.th/documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-coronation-day@aeiou.now
+DTSTAMP:20280504T000000Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:加冕紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-queen-suthida-birthday@aeiou.now
+DTSTAMP:20280603T000000Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:素提達王后誕辰
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-king-birthday@aeiou.now
+DTSTAMP:20280728T000000Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:泰王瓦集拉隆功誕辰
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf https://pathumthani.moc.go.th/th/content/category/det
+ ail/id/161/iid/172817
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-mothers-day@aeiou.now
+DTSTAMP:20280812T000000Z
+DTSTART;VALUE=DATE:20280812
+DTEND;VALUE=DATE:20280813
+SUMMARY:詩麗吉太后誕辰紀念日暨母親節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .prd.go.th/th/content/category/detail/id/39/iid/524338 https://ratchakitch
+ a.soc.go.th/documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-king-bhumibol-memorial@aeiou.now
+DTSTAMP:20281013T000000Z
+DTSTART;VALUE=DATE:20281013
+DTEND;VALUE=DATE:20281014
+SUMMARY:蒲美蓬國王逝世紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-chulalongkorn-day@aeiou.now
+DTSTAMP:20281023T000000Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281024
+SUMMARY:五世王紀念日（朱拉隆功紀念日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-national-day@aeiou.now
+DTSTAMP:20281205T000000Z
+DTSTART;VALUE=DATE:20281205
+DTEND;VALUE=DATE:20281206
+SUMMARY:國慶日暨父親節（蒲美蓬國王誕辰）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-constitution-day@aeiou.now
+DTSTAMP:20281210T000000Z
+DTSTART;VALUE=DATE:20281210
+DTEND;VALUE=DATE:20281211
+SUMMARY:憲法紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-th-2028-new-years-eve@aeiou.now
+DTSTAMP:20281231T000000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:除夕（年末日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://rat
+ chakitcha.soc.go.th/documents/17082311.pdf https://ratchakitcha.soc.go.th/
+ documents/126975.pdf
+URL:https://aeiou.now/holidays/th/2028/
+END:VEVENT
+END:VCALENDAR

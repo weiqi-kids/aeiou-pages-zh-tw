@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:南韓 2026
+X-WR-CALDESC:2026 年南韓共有 18 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-kr-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-seollal@aeiou.now
+DTSTAMP:20260216T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260219
+SUMMARY:春節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-samiljeol@aeiou.now
+DTSTAMP:20260301T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:三一節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-03-02@aeiou.now
+DTSTAMP:20260302T000000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:三一節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-labor-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공휴일에관한법률 https://www.korea.kr/news/policyNewsVie
+ w.do?newsId=148962129
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-childrens-day@aeiou.now
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-buddhas-birthday@aeiou.now
+DTSTAMP:20260524T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:佛誕日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-05-25@aeiou.now
+DTSTAMP:20260525T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:佛誕日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-local-election-2026-06-03@aeiou.now
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:全國同步地方選舉投票日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공직선거법
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-memorial-day@aeiou.now
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:顯忠日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-constitution-day@aeiou.now
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:制憲節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률 https://www.kasa.go.kr/prog/plcyBrf/bri
+ ef/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-liberation-day@aeiou.now
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:光復節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-08-17@aeiou.now
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:光復節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-chuseok@aeiou.now
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260927
+SUMMARY:中秋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-national-foundation-day@aeiou.now
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:開天節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-10-05@aeiou.now
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:開天節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-hangul-day@aeiou.now
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:韓文日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-christmas@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:馬來西亞
+X-WR-CALDESC:2026 年馬來西亞共有 16 天法定假日。 2027 年馬
+ 來西亞共有 15 天法定假日。 2028 年馬來西亞共有 13 天法
+ 定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-my-2026-tahun-baharu-cina@aeiou.now
+DTSTAMP:20260217T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:農曆新年
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-aidilfitri-tambahan-2026-03-20@aeiou.now
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:開齋節特別假日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://ber
+ ita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pm-umum-cu
+ ti-tambahan-hari-raya-aidifitri/ https://cm.sabah.gov.my/siaran-media/6439
+  https://jtksm.mohr.gov.my/sites/default/files/2023-06/Akta%20369%20-%20Ak
+ ta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-raya-puasa@aeiou.now
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260323
+SUMMARY:開齋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://berita.rtm.gov.my/nasional/senarai-beri
+ ta-nasional/senarai-artikel/umat-islam-di-malaysia-sambut-aidilfitri-pada-
+ sabtu-21-mac/ https://jtksm.mohr.gov.my/sites/default/files/2023-06/Akta%2
+ 0369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-cuti-ganti-2026-03-23@aeiou.now
+DTSTAMP:20260323T000000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:開齋節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://berita.rtm.gov.my/nas
+ ional/senarai-berita-nasional/senarai-artikel/umat-islam-di-malaysia-sambu
+ t-aidilfitri-pada-sabtu-21-mac/ https://jtksm.mohr.gov.my/sites/default/fi
+ les/2023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-pekerja@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-11/Akta%20Kerja%201955%20(Akta%20265).pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-raya-qurban@aeiou.now
+DTSTAMP:20260527T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:宰牲節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-wesak@aeiou.now
+DTSTAMP:20260531T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:衛塞節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://www.mkn.gov.my/web/ms/2026/05/20/%F0%9D
+ %97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%
+ 97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9
+ D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9C/
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-keputeraan-agong@aeiou.now
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:最高元首華誕
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://www.mkn.gov.my/web/ms/2026/05/20/%F0%9D
+ %97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%
+ 97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9
+ D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9C/ https://jtksm.mohr.gov.my/sit
+ es/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-cuti-ganti-2026-06-02@aeiou.now
+DTSTAMP:20260602T000000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:衛塞節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mkn.gov.my/web/ms/2026/05/20/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%9
+ 7%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9
+ F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%
+ 97%9C/ https://jtksm.mohr.gov.my/sites/default/files/2023-06/Akta%20369%20
+ -%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-awal-muharam@aeiou.now
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:伊斯蘭新年
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-maulidur-rasul@aeiou.now
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:先知穆罕默德誕辰
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-kebangsaan@aeiou.now
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:國慶日（獨立日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-malaysia@aeiou.now
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:馬來西亞日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-deepavali@aeiou.now
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:屠妖節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-cuti-ganti-2026-11-09@aeiou.now
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:屠妖節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://jtksm.mohr.gov.my/sit
+ es/default/files/2023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.p
+ df
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2026-hari-krismas@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-tahun-baharu-cina@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:農曆新年
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-cuti-ganti-2027-02-08@aeiou.now
+DTSTAMP:20270208T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:農曆新年補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sit
+ es/default/files/2023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.p
+ df
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-hari-pekerja@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-11/Akta%20Kerja%201955%20(Akta%20265).pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-hari-wesak@aeiou.now
+DTSTAMP:20270520T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:衛塞節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://www.mkn.gov.my/web/ms/2026/05/20/%F0%9D
+ %97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%
+ 97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9
+ D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9C/
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-keputeraan-agong@aeiou.now
+DTSTAMP:20270607T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:最高元首華誕
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://www.mkn.gov.my/web/ms/2026/05/20/%F0%9D
+ %97%96%F0%9D%97%A8%F0%9D%97%A7%F0%9D%97%9C-%F0%9D%97%A8%F0%9D%97%A0%F0%9D%
+ 97%A8%F0%9D%97%A0-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-i-%F0%9
+ D%97%9B%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9C/ https://jtksm.mohr.gov.my/sit
+ es/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-hari-kebangsaan@aeiou.now
+DTSTAMP:20270831T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:國慶日（獨立日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-hari-malaysia@aeiou.now
+DTSTAMP:20270916T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:馬來西亞日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2027-hari-krismas@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2028-hari-pekerja@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-11/Akta%20Kerja%201955%20(Akta%20265).pdf
+URL:https://aeiou.now/holidays/my/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2028-hari-kebangsaan@aeiou.now
+DTSTAMP:20280831T000000Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:國慶日（獨立日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2028-hari-malaysia@aeiou.now
+DTSTAMP:20280916T000000Z
+DTSTART;VALUE=DATE:20280916
+DTEND;VALUE=DATE:20280917
+SUMMARY:馬來西亞日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf https://jtksm.m
+ ohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).
+ pdf
+URL:https://aeiou.now/holidays/my/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-my-2028-hari-krismas@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .kabinet.gov.my/storage/2025/08/HKA-2026.pdf https://www.kabinet.gov.my/st
+ orage/2026/08/HKA_2027.pdf https://jtksm.mohr.gov.my/sites/default/files/2
+ 023-06/Akta%20369%20-%20Akta%20Hari%20Kelepasan%201951.pdf
+URL:https://aeiou.now/holidays/my/2028/
+END:VEVENT
+END:VCALENDAR

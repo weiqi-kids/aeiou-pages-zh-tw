@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:南韓 2027
+X-WR-CALDESC:2027 年南韓共有 20 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-kr-2027-new-years-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-seollal@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270209
+SUMMARY:春節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-02-09@aeiou.now
+DTSTAMP:20270209T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:春節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-samiljeol@aeiou.now
+DTSTAMP:20270301T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:三一節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-labor-day@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공휴일에관한법률 https://www.korea.kr/news/policyNewsVie
+ w.do?newsId=148962129
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-05-03@aeiou.now
+DTSTAMP:20270503T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:勞動節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-childrens-day@aeiou.now
+DTSTAMP:20270505T000000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:兒童節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-buddhas-birthday@aeiou.now
+DTSTAMP:20270513T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:佛誕日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-memorial-day@aeiou.now
+DTSTAMP:20270606T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:顯忠日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-constitution-day@aeiou.now
+DTSTAMP:20270717T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:制憲節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률 https://www.kasa.go.kr/prog/plcyBrf/bri
+ ef/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-07-19@aeiou.now
+DTSTAMP:20270719T000000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:制憲節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-liberation-day@aeiou.now
+DTSTAMP:20270815T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:光復節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-08-16@aeiou.now
+DTSTAMP:20270816T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:光復節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-chuseok@aeiou.now
+DTSTAMP:20270914T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270917
+SUMMARY:中秋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-national-foundation-day@aeiou.now
+DTSTAMP:20271003T000000Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:開天節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-10-04@aeiou.now
+DTSTAMP:20271004T000000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:開天節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-hangul-day@aeiou.now
+DTSTAMP:20271009T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:韓文日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-10-11@aeiou.now
+DTSTAMP:20271011T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:韓文日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-christmas@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2027-substitute-2027-12-27@aeiou.now
+DTSTAMP:20271227T000000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:聖誕節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://aeiou.now/holidays/kr/2027/
+END:VEVENT
+END:VCALENDAR

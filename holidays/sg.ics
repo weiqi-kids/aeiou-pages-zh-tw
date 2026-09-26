@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:新加坡
+X-WR-CALDESC:2026 年新加坡共有 13 天法定假日。 2027 年新加
+ 坡共有 11 天法定假日。 2028 年新加坡共有 11 天法定假日
+ 。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-sg-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-chinese-new-year@aeiou.now
+DTSTAMP:20260217T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:農曆新年
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-hari-raya-puasa@aeiou.now
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:開齋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-good-friday@aeiou.now
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-labour-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-hari-raya-haji@aeiou.now
+DTSTAMP:20260527T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:哈芝節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-vesak-day@aeiou.now
+DTSTAMP:20260531T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:衛塞節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027 https://w
+ ww.mom.gov.sg/newsroom/press-releases/2022/0929-revised-date-for-vesak-day
+ -2023
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-vesak-day-in-lieu-2026-06-01@aeiou.now
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:衛塞節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-national-day@aeiou.now
+DTSTAMP:20260809T000000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:國慶日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-national-day-in-lieu-2026-08-10@aeiou.now
+DTSTAMP:20260810T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:國慶日補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-deepavali@aeiou.now
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:屠妖節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-deepavali-in-lieu-2026-11-09@aeiou.now
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:屠妖節補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2026-christmas-day@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-new-years-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-chinese-new-year@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:農曆新年
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-chinese-new-year-in-lieu-2027-02-08@aeiou.now
+DTSTAMP:20270208T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:農曆新年補假
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-hari-raya-puasa@aeiou.now
+DTSTAMP:20270310T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:開齋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-good-friday@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-labour-day@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-hari-raya-haji@aeiou.now
+DTSTAMP:20270517T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:哈芝節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-vesak-day@aeiou.now
+DTSTAMP:20270520T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:衛塞節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027 https://w
+ ww.mom.gov.sg/newsroom/press-releases/2022/0929-revised-date-for-vesak-day
+ -2023
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-national-day@aeiou.now
+DTSTAMP:20270809T000000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:國慶日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-deepavali@aeiou.now
+DTSTAMP:20271028T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:屠妖節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2027-christmas-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-new-years-day@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-labour-day@aeiou.now
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-national-day@aeiou.now
+DTSTAMP:20280809T000000Z
+DTSTART;VALUE=DATE:20280809
+DTEND;VALUE=DATE:20280810
+SUMMARY:國慶日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-sg-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .mom.gov.sg/employment-practices/public-holidays https://www.mom.gov.sg/ne
+ wsroom/press-releases/2025/0616-public-holidays-for-2026 https://www.mom.g
+ ov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027
+URL:https://aeiou.now/holidays/sg/2028/
+END:VEVENT
+END:VCALENDAR

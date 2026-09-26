@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:菲律賓 2026
+X-WR-CALDESC:2026 年菲律賓共有 12 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-ph-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-chinese-new-year@aeiou.now
+DTSTAMP:20260217T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:春節（農曆新年）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-eidul-fitr@aeiou.now
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:開齋節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1270970 https://www.pna.gov.ph/articles/1271401 https
+ ://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-maundy-thursday@aeiou.now
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:聖週四（濯足節）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-good-friday@aeiou.now
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-black-saturday@aeiou.now
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:聖週六
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-araw-ng-kagitingan@aeiou.now
+DTSTAMP:20260409T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:英勇日（巴丹與科雷希多紀念日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-labor-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-eidul-adha@aeiou.now
+DTSTAMP:20260527T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:宰牲節（古爾邦節）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1275612 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-independence-day@aeiou.now
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-ninoy-aquino-day@aeiou.now
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:尼諾伊·艾奎諾紀念日
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-national-heroes-day@aeiou.now
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:國家英雄節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-all-saints-day@aeiou.now
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:諸聖節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-all-souls-day@aeiou.now
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:追思已亡節（萬靈節）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-bonifacio-day@aeiou.now
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:博尼法西奧紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-immaculate-conception@aeiou.now
+DTSTAMP:20261208T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:聖母無原罪始胎節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-christmas-eve@aeiou.now
+DTSTAMP:20261224T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:平安夜
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-christmas-day@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-rizal-day@aeiou.now
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:黎剎紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-last-day-of-the-year@aeiou.now
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:除夕（年末最後一天）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2026/
+END:VEVENT
+END:VCALENDAR

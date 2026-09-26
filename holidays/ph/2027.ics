@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:菲律賓 2027
+X-WR-CALDESC:2027 年菲律賓共有 12 天法定假日。
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-ph-2027-new-years-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:元旦
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-chinese-new-year@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:春節（農曆新年）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-maundy-thursday@aeiou.now
+DTSTAMP:20270325T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:聖週四（濯足節）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-good-friday@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:耶穌受難日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-black-saturday@aeiou.now
+DTSTAMP:20270327T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:聖週六
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-araw-ng-kagitingan@aeiou.now
+DTSTAMP:20270409T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:英勇日（巴丹與科雷希多紀念日）
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-labor-day@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:勞動節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-independence-day@aeiou.now
+DTSTAMP:20270612T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:獨立紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-ninoy-aquino-day@aeiou.now
+DTSTAMP:20270821T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:尼諾伊·艾奎諾紀念日
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-national-heroes-day@aeiou.now
+DTSTAMP:20270830T000000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:國家英雄節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-all-saints-day@aeiou.now
+DTSTAMP:20271101T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:諸聖節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-all-souls-day@aeiou.now
+DTSTAMP:20271102T000000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:追思已亡節（萬靈節）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-bonifacio-day@aeiou.now
+DTSTAMP:20271130T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:博尼法西奧紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-immaculate-conception@aeiou.now
+DTSTAMP:20271208T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:聖母無原罪始胎節
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-christmas-eve@aeiou.now
+DTSTAMP:20271224T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:平安夜
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-christmas-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:聖誕節
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-rizal-day@aeiou.now
+DTSTAMP:20271230T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:黎剎紀念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-last-day-of-the-year@aeiou.now
+DTSTAMP:20271231T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:除夕（年末最後一天）
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://aeiou.now/holidays/ph/2027/
+END:VEVENT
+END:VCALENDAR
