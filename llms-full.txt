@@ -1,0 +1,1022 @@
+# aeiou.now
+
+> 看見同一個生活主題在不同國家、城市與家庭怎麼過；有日期、有來源，也保留彼此不一樣的地方。
+
+aeiou.now 把一個主題拆成兩個問題：事情本身是什麼，以及它到了不同地方會怎麼發生。你可以先看日期和規定，再看當地做法、來源與其他人的經驗。
+
+## 網站導覽
+
+- [首頁](https://aeiou.now/)
+- [熱門話題](https://aeiou.now/topics/today/)
+- [附近訊息](https://aeiou.now/topics/nearby/)
+- [活動資訊](https://aeiou.now/topics/events/)
+- [排行榜 24 小時](https://aeiou.now/rankings/24h/)
+- [排行榜 72 小時](https://aeiou.now/rankings/72h/)
+- [排行榜 7 天](https://aeiou.now/rankings/7d/)
+- [排行榜 1 個月](https://aeiou.now/rankings/1m/)
+- [排行榜 3 個月](https://aeiou.now/rankings/3m/)
+- [排行榜 1 年](https://aeiou.now/rankings/1y/)
+- [世界問題集](https://aeiou.now/questions/)
+- [關於](https://aeiou.now/about/)
+- [sitemap.xml](https://aeiou.now/sitemap.xml)
+
+## 主題
+
+- [情人節](https://aeiou.now/topic/affection-and-reciprocity/): 表達愛意的日子不只一個，也不在同一天：日本二月十四日由女性送巧克力、三月十四日再回禮，台灣同時過二月十四日與農曆七夕，巴西把它放在六月十二日，印度拉成情人週，美國則是單一天。
+- [跨國問答](https://aeiou.now/topic/ask-the-world/): 想知道台灣、日本、美國、印度、印尼或巴西怎麼上學、買菜、過節或處理日常小事？ 把問題寫下來，請住在當地的人分享經驗。
+- [開學季](https://aeiou.now/topic/back-to-school/): 開學日沒有全球統一答案：日本學年依法從 4 月 1 日到隔年 3 月 31 日，台灣學年從 8 月 1 日開始但學生多在 9 月初返校，中國大陸多由地方校曆排在 8 月底至 9 月初；印尼多在 7 月第三週、印度落在 4–6 月的邦別窗口，巴西多在 2 月開學，美國則由學區排在 7 月底至 9 月初。
+- [啤酒節](https://aeiou.now/topic/beer-festivals/): 同一個從德國搬出去的節慶，各國政府站的位置完全不同。 巴西的十月啤酒節由布盧梅瑙市政府主辦，主場館本身就登記在市府的機關表上；中國的青島國際啤酒節由青島市政府主辦，辦在七月到八月而不是十月，源頭是一九〇三年德國與英國商人在青島建的啤酒廠；美國的辛辛那提由民間主辦，政府只負責核發臨時售酒許可，而且明文規定不得發給營利者；印尼則因為酒類管制，同一種活動在制度上不存在。
+- [生日與祝壽](https://aeiou.now/topic/birthdays-and-blessings/): 生日與祝壽不只有蛋糕：台灣同時有週歲、虛歲與六十歲起的做壽，日本把數え年改由法律推向滿年齡並保留還曆等節點，美國的 16、18、21 歲連著不同權利；印度常在公曆生日與 tithi 之間切換，印尼以 syukuran 分享，巴西則有 15 歲 festa de 15 anos。
+- [家庭照護與代間](https://aeiou.now/topic/caregiving-across-generations/): 家庭照護的關鍵不只是長輩住不住一起，而是誰負責、能不能申請支援：台灣由長照 2.0 和 1966 專線評估，日本以 40 歲起繳費、65 歲起認定的介護保險分擔，印度可向法定裁判庭申請扶養費，巴西把高齡者權利寫進法律；中國大陸、印尼仍由家庭與社區承擔很大一部分，美國則由 Medicare、Medicaid、私人保險與自費拼接。
+- [狂歡節](https://aeiou.now/topic/carnival/): 巴西的狂歡節不是法定假日。 它是「彈性放假日」——由管理部每年發布法令，指定星期一與星期二為聯邦機關的彈性放假日，聖灰星期三則放到下午兩點。
+- [兒童節](https://aeiou.now/topic/childrens-day/): 六個地方的兒童節落在六個不同日期，從四月到十一月都有，而且「誰放假」也不一樣：台灣全體放假一日，中國大陸只有不滿十四歲的孩子放假一天，日本的法定趣旨連「感謝母親」都寫進去，印尼是總統令訂的紀念日、每年由部會定主題，巴西的日期和天主教的主保聖人同一天，印度則綁在尼赫魯的生日。
+- [基督宗教曆的其他日子](https://aeiou.now/topic/christian-calendar-days/): 聖誕節與復活節之外，同一套復活節推算法還推出一整串日子：聖灰星期三、耶穌受難日、耶穌升天日、五旬節、基督聖體聖血節。
+- [聖誕節](https://aeiou.now/topic/christmas/): 十二月二十五日在七個地方不是同一件事：巴西、美國、印尼、印度把它列為法定假日，台灣同一天放的是行憲紀念日，日本與中國大陸則照常上班。
+- [成年禮](https://aeiou.now/topic/coming-of-age/): 法定成年與成年禮不是同一條線：台灣、中國大陸與印度把民事成年放在 18 歲，日本 2022 年降為 18 歲但許多成人式仍以 20 歲為對象；印尼 17 歲先取得身分證與投票權、18 歲才脫離兒童保護定義，巴西 18 歲成年但有提前取得完全行為能力的門， 美國則把投票、喝酒、簽約等權利拆成不同年齡。
+- [義務教育:幾歲到幾歲,而且「義務」是誰的](https://aeiou.now/topic/compulsory-education/): 台灣《國民教育法》第三條寫六歲至十五歲,九年,而且強迫入學另以法律定之;巴西憲法第二〇八條經二〇〇九年修憲後是四歲到十七歲,七國裡跨度最寬;印度憲法第二十一A條是六到十四歲,而它被放在基本權利那一篇,是可以上法院請求的;印尼憲法第三十一條第二項把義務同時放在兩邊——公民有義務就學、政府有義務出錢,第四項還規定教育預算至少占百分之二十;日本憲法第二十六條的義務落在家長身上;中國憲法第四十六條一句話把受教育同時寫成權利與義務;美國聯邦沒有規定,各州自己訂,起訖年齡從五歲到七歲起、十六到十八歲止都有。
+- [排燈節（Diwali）](https://aeiou.now/topic/diwali/): 2026 年印度排燈節（Diwali／Deepavali）的主節日是 11 月 8 日星期日；它依 Kartika 月新月日變動，五天是文化與宗教節期，不等於全印度統一放五天假。
+- [端午節](https://aeiou.now/topic/dragon-boat-festival/): 農曆五月初五在台灣與中國大陸都放假，日本卻把同一個「端午」挪到公曆五月五日、寫成法定的兒童節。
+- [復活節](https://aeiou.now/topic/easter/): 復活節在四個地方的制度位置差距很大，而且方向出乎意料：穆斯林人口占多數的印尼把受難日、復活節、升天節、聖誕節四個基督教節日都列為國定假日；基督徒占多數的美國一個都沒有列進聯邦假日；巴西把宗教假日的決定權交給市議會、上限四個；印度列進全國清單的是受難日而不是復活節。
+- [宰牲節](https://aeiou.now/topic/eid-al-adha/): 2027 年宰牲節（古爾邦節）目前按曆算約在 5 月 17 日，但印尼、印度、台灣與中國大陸的正式公告或地方假期仍可能不同。
+- [敬老日與祖父母節](https://aeiou.now/topic/elders-day/): 2026 年七個地方的敬老日期依序落在：印尼 5 月 29 日、台灣 8 月 23 日、日本 9 月 21 日、美國 9 月 13 日、巴西與印度 10 月 1 日，以及中國大陸農曆重陽約 10 月 18 日。
+- [廢奴與解放紀念日](https://aeiou.now/topic/emancipation-and-abolition/): 美洲兩個最大的蓄奴社會，都到了二○二○年代才把廢奴放進國定假日：美國二○二一年、巴西二○二三年，距離奴隸制在法律上結束都超過一個半世紀。
+- [升學考試:進大學要考什麼、誰主辦、看不看在校成績](https://aeiou.now/topic/entrance-exams/): 台灣考「學測」與「分科測驗」(大考中心主辦),三管道各有規則:申請入學的學測最多只計甄選總成績的50%,其餘看學習歷程與面試;分發入學純比分科測驗或學測分數高低;繁星推薦看在校成績全校排名,不需再考試分發。
+- [環境紀念日](https://aeiou.now/topic/environment-days/): 環境紀念日幾乎都不放假，七個國家裡只有日本例外——五月四日的みどりの日是《國民の祝日に関する法律》第二條寫明的法定祝日。
+- [節氣、分至與假日](https://aeiou.now/topic/equinox-and-seasonal-turns/): 這是唯一一類日期不是人挑的節日——太陽走到黃道上的某一點，那一天就是那一天。 各國把這個天文事實接進制度的方式差很多：日本把春分與秋分寫成法定假日，日期交給國立天文台推算、前一年二月才由官報公告，所以日本人的假期要等到前一年才確定；台灣的《紀念日及節日實施條例》裡由節氣定日的只有清明節與農民節，冬至一個字都沒有；中國的法定假日裡只有清明節的日期由節氣決定；印度的摩羯宮入座日已經跟至點差了三個星期；美國乾脆不用天文，改用「三月第二個星期日」這種法律寫得死的規則。
+- [大考季](https://aeiou.now/topic/exam-season/): 每個地方都有一場決定升學的全國性考試，但「決定」被壓縮到多短、分散到多開，差別極大。
+- [告別與喪葬](https://aeiou.now/topic/farewells-and-funerals/): 喪葬首先有一條行政時間線，也有一條家族與宗教時間線：日本死亡後原則上須等 24 小時才能火化或埋葬，台灣死亡登記期限是 30 日，印度是 21 日，巴西常在 24 小時內守靈後下葬；印尼穆斯林多在當日或隔日下葬，峇里島 ngaben 卻可能延後數月或數年。
+- [父親節](https://aeiou.now/topic/fathers-day/): 父親節在四個地方有三個不同日期，來歷也完全不同：台灣選八月八日是因為「八八」諧音爸爸，美國走了六十年才在一九七二年立法定案，巴西則是一九五三年由報社廣告人為了填補下半年的檔期而發明的。
+- [開國者與領袖紀念日](https://aeiou.now/topic/founders-and-national-leaders/): 美國聯邦法律上的名字到今天仍是 Washington's Birthday——《美國法典》第五編第六一〇三條逐條列出的十一個法定公共假日裡,二月第三個星期一就是這個名字;「Presidents' Day」是各州與零售業的叫法,人事管理局甚至在假日表下面加註,說各州與民間可能用別的名字,但它的政策是一律以法律指定的名字稱呼。
+- [鬼節、祭祖與追思](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/): 2026 年台灣鬼月約從 8 月 13 日到 9 月 10 日，中國大陸中元節落在 8 月 27 日，日本盂蘭盆多數地區是 8 月 13–16 日；巴西亡者節則是 11 月 2 日。
+- [畢業季](https://aeiou.now/topic/graduation-season/): 畢業季不是同一個月份：日本在 3 月接著 4 月新學年，台灣與中國大陸多在 6–7 月，美國由學區排在 5–6 月，印度多在 3–5 月並跟著 board exam 放榜，印尼多在 5–6 月、巴西則在 12 月。
+- [萬聖節](https://aeiou.now/topic/halloween/): 十月三十一日的萬聖節不是任何一個國家的法定假日——七個市場沒有一個把它寫進放假的法律裡。
+- [收成與感恩](https://aeiou.now/topic/harvest-and-gratitude/): 收成要不要變成節日、由誰來定義，五個地方給了五種答案：美國把它做成聯邦假日的家庭餐桌；印度的 Pongal 從農曆與太陽入宮算起，煮的那鍋粥就是儀式本身；巴西把它綁在六月的三個聖人日；中國大陸在二○一八年由國務院批復，替農民新設了一個節；日本則把戰前的新嘗祭改寫成「感謝勞動」的國民假日。
+- [全民健保:誰強制納保,錢由誰出](https://aeiou.now/topic/health-coverage/): 台灣《全民健康保險法》第一條把加入寫成強制,1995年3月開辦,保費由雇主60%、被保險人30%、政府10%分攤;日本靠1958年《國民健康保險法》要求每個市町村開辦國保,1961年才補齊「國民皆保險」最後一塊,病人自付比例依年齡從75歲以上的1成到6至69歲的3成不等;印尼《2004年SJSN法》第四條同樣明文「參保具強制性」,外國人工作滿六個月就納入,門檻幾乎與台灣一樣;巴西的SUS是1988年憲法第一九六條「健康是所有人的權利、國家的義務」的直接產物,對境內任何人一律免費。
+- [返鄉與團聚](https://aeiou.now/topic/homecoming-and-reunion/): 返鄉不只是一個節日名詞：台灣主要在農曆春節、日本集中在年末年始與お盆、中國大陸有前後約四十天的春運，美國以感恩節形成最大返鄉潮；印度的移動則跟著各邦節日分散，印尼的 mudik 常在開齋節前後，巴西也會受學校與家庭行事曆影響。
+- [原住民族與殖民記憶](https://aeiou.now/topic/indigenous-and-colonial-memory/): 臺灣把原住民族的記憶寫進法律，但沒有寫進放假：《紀念日及節日實施條例》第三條同時列了原住民族日（八月一日）、原住民族抵抗日（六月二十六日）與民族平等紀念日（三月二十一日），三個都只紀念、不放假；真正放假的是原住民族歲時祭儀，而且只放給具原住民身分的人、由各族自己擇定三日。
+- [伊斯蘭曆的其他日子](https://aeiou.now/topic/islamic-calendar-days/): 2026 年印尼先知誕辰是 8 月 25 日、印度的 Milad-un-Nabi 是 8 月 26 日；兩國都把它列入官方行事曆，但不是同一天。
+- [猶太曆的日子](https://aeiou.now/topic/jewish-calendar-days/): 猶太新年、贖罪日、逾越節、光明節都不是任何一個國家的國定假日，連猶太社群最大的美國也不是——聯邦假日由《美國法典》第五編第 6103 條寫死，裡面唯一的宗教節日是聖誕節。
+- [勞動節](https://aeiou.now/topic/labour-day/): 五月一日是國際勞動節，但 2026 年美國勞動節是 9 月 7 日，不是 5 月 1 日。
+- [元宵節](https://aeiou.now/topic/lantern-festival/): 元宵節同一天，在不同地方是不同的事：台灣把它過成三種完全不同的場面——吃湯圓與看燈會、在平溪把天燈放上天、在鹽水站進蜂炮裡；中國大陸則沒有把它列入全體公民放假的節日，是上班日。
+- [連假](https://aeiou.now/topic/long-holiday-weeks/): 七個地方都有一串連續假期,把零散假日接成一整串的機器卻完全不同。 日本靠祝日法自動補上中間那一天,誰也不必公告;中國靠國務院辦公廳每年發通知調休,把週末挪過來、之後再補上班;印尼由三個部會聯合決定共同休假日,而那幾天要從勞工自己的年休假扣;台灣二〇二五年改法之後只補假、不再借週末;巴西靠部會法令指定沒有名字的橋接日,而且只綁聯邦機關;美國一九六八年把五個假日移到星期一之後就沒再做別的;印度則由各邦依一八八一年的票據法自行公告,最長的一串長在一個邦裡。
+- [中秋與月見](https://aeiou.now/topic/mid-autumn-and-moon-viewing/): 同一個滿月前後，四種過法：台灣與中國大陸放假、吃月餅、家人團聚；中國延邊的朝鮮族把它過成以掃墓祭祖為先的秋夕；日本則不放假，把它當成一個天文與season的節氣——而且國立天文台明講，中秋的月亮經常不是那一晚的滿月。
+- [兵役:被叫去的、只要登記的、和寫在憲法裡沒人叫的](https://aeiou.now/topic/military-service/): 台灣《兵役法》第一條就是一句話:「中華民國男子依法皆有服兵役之義務」,第十六條把常備兵現役定為一年;中國憲法第五十五條說服兵役是「光榮義務」;巴西憲法第一百四十三條說義務,但同條讓良心因素者改服替代役、平時免除婦女與神職人員。
+- [最低工資：誰訂的、多久調一次、涵蓋到誰](https://aeiou.now/topic/minimum-wage/): 台灣《最低工資法》(2023年制定)由最低工資審議會二十一人於每年第三季開會審議，2026年生效月薪29,500元、時薪196元，全國單一數字，不分地區；日本《最低賃金法》按四十七個都道府県分別由地方最低賃金審議會依中央目安審議，2026年度目安全國加權平均時薪1,176円，同一個國家四十七種不同金額；中國《最低工资规定》要求省級政府至少每兩年調整一次，同一省內還再分二到四個檔次——陝西2026年一類區月薪2,376元、三類區只有2,140元；美國聯邦最低工資7.25美元，自2009年7月24日起十七年未動，各州可以訂更高(華盛頓特區18.40美元)，也可以只等於聯邦標準；印度2019年《工資法》2026年4月1日才全面生效，把最低工資保障從原本只涵蓋約三成勞工的「附表僱傭」擴大到所有受僱者，但具拘束力的全國「地板工資」到2026年8月都還在諮詢階段，只有一個自2017年沿用至今、不具拘束力的每日176盧比參考值；印尼《2025年第49號政府條例》讓三十四個省的省長依當地經濟成長率各自訂UMP(省最低工資)，2026年雅加達最高達每月572萬9,876印尼盾；巴西《薪資價值化政策法》(2023年)由總統依前一年INPC通膨加前兩年GDP成長訂出全國單一數字，2026年為每月1,621雷亞爾，但聖保羅、南里奧格蘭德等州可以依法(2000年補充法第103號)另訂更高的「區域最低工資」。
+- [母親節](https://aeiou.now/topic/mothers-day/): 四個地方在五月第二個星期日過母親節，印尼卻在十二月二十二日——而且那不是一個「感謝媽媽」的日子，是紀念一九二八年第一屆印尼婦女大會的政治性紀念日。
+- [搬家與入厝](https://aeiou.now/topic/moving-home/): 搬家有兩層問題：住址要不要向單一機關登記，以及新家要不要用儀式迎接。 台灣遷入、遷出與住址變更原則上 30 日內辦理，日本遷入 14 日內申報，中國大陸牽動戶口，印尼要更新 KTP 與家庭卡；印度要分別更新 Aadhaar、選民名冊與銀行 KYC，美國與巴西沒有單一住址登記制度。
+- [國慶日](https://aeiou.now/topic/national-days/): 2026 年接下來的國慶日包括巴西 9 月 7 日、台灣 10 月 10 日與中國大陸 10 月 1 日；但七個國慶日紀念的事件不同：有的紀念獨立宣言，有的紀念政權成立，有的紀念推翻帝制，日本則在 2 月 11 日以「建国記念の日」紀念傳說中的即位日，而不是一個可考的歷史建國日期。
+- [新年](https://aeiou.now/topic/new-year/): 「新年」不是同一天。 台灣與中國大陸過農曆正月初一，日本、美國、巴西、印尼放公曆一月一日，而印度的全國假日清單裡根本沒有一月一日——那裡的新年是三、四月的地方新年，各邦名字都不一樣。
+- [新生兒與滿月](https://aeiou.now/topic/newborn-and-full-moon/): 新生兒有兩條不同的時間線：出生登記與家庭慶祝。 日本出生届期限 14 日、印度 21 日、中國大陸 1 個月、巴西 15 日（偏遠地區可延長），台灣與印尼多為 60 日，美國則由各州規定；另一方面，日本有第七日的命名與參拜，印尼有第七日 aqiqah，台灣與中國大陸常在滿月辦酒席。
+- [官方語言:寫在憲法裡、寫在法律裡,還是根本沒寫](https://aeiou.now/topic/official-languages/): 印度憲法花了一整篇處理語言,第三四三條指定天城體印地語為聯邦官方語言,還附上十五年英語過渡條款;印尼憲法第三十六條只用一句話——「國家語言是印尼語」;巴西憲法第十三條同樣一句;中國憲法沒有「官方語言」這個詞,而是把「推廣全國通用的普通話」放進教育那一條的最後一句;台灣反過來,《國家語言發展法》不指定單一國語,把各固有族群的自然語言與台灣手語全部列為國家語言、一律平等;日本根本沒有法定官方語言;美國憲法與國會立法也都沒有,是二○二五年三月用行政命令指定英語的。
+- [特休幾天、加班費怎麼算：七國差在哪](https://aeiou.now/topic/paid-leave-and-overtime/): 台灣《勞動基準法》第38條把特別休假分成六級：半年3天、滿一年7天、兩年10天、三到五年每年14天、五到十年每年15天，十年以上每滿一年加1天，上限30天；沒休完不會消滅，雇主要依第38條第4項發工資。
+- [生了小孩之後,法律給你多少天](https://aeiou.now/topic/parental-leave/): 台灣《勞動基準法》第五十條給產假八星期,受僱滿六個月工資照給;日本《勞働基準法》第六十五條走得更遠——產後八週,雇主不得讓她工作,那不是權利而是禁令;巴西《勞動法彙編》第三百九十二條是一百二十天;印尼二○二四年第四號法把產假拉到最短三個月、必要時再三個月,並逐月訂出薪資比例;而美國的 FMLA 明文寫著這段假「得為無薪」。
+- [寵物準備與防災](https://aeiou.now/topic/pet-preparedness/): 寵物準備不是多買一包飼料，而是把「如果今天停電、淹水、搬家、旅行或必須撤離」先拆成可執行的步驟：身分標示與醫療紀錄、食水與常用藥、每隻動物合適的外出籠或牽繩、可接受寵物的去處、替代照顧者，以及失聯後怎麼找回。
+- [寵物與家庭](https://aeiou.now/topic/pets-and-family/): 把寵物當家人，不代表規則會把牠當成人：台灣把犬、貓與其他伴侶動物放進「寵物」定義並要求飼主提供必要醫療，日本把終生飼養、鄰里責任與身分標示列為飼主要務，中國大陸的養犬登記多落在城市規範；印度、印尼、巴西與美國則分別從動物福利、公共衛生、地方自治與商業運輸切出不同邊界。
+- [求婚與訂婚](https://aeiou.now/topic/proposals-and-engagements/): 訂婚不等於結婚：台灣訂婚年齡 17 歲、結婚 18 歲，而且不能要求對方強迫履行婚約；印尼 2019 年後男女最低結婚年齡都是 19 歲，lamaran 先是家庭公開承認；中國大陸的爭議常落在彩禮返還，日本沒有專門婚約法，印度受各社群屬人法影響，巴西 18 歲可自由結婚、美國則由各州處理戒指歸屬。
+- [齋戒月與開齋節](https://aeiou.now/topic/ramadan-and-eid/): 印尼的齋戒月初一不是提前固定的節日日期；查 2027 年印尼齋戒月時間時，要等宗教部在前一晚以 sidang isbat 公告，開齋節再依 Shawwal 初一與政府公告安排。
+- [宗教與國家:憲法把兩者放在什麼距離](https://aeiou.now/topic/religion-and-the-state/): 印尼憲法第二十九條第一項的第一句就是「國家以至高神性為基礎」;巴西憲法第十九條反過來,禁止聯邦、州與各市設立宗教、補助宗教或與宗教維持依賴或結盟關係;日本憲法第二十條寫得更細——任何宗教團體不得從國家受特權,而且國家及其機關不得從事宗教教育或任何宗教活動,第八十九條再禁止公款支出於宗教組織;美國第一修正案是「國會不得制定關於設立宗教的法律」;中國憲法第三十六條保障信仰自由,但保護的是「正常的宗教活動」,並寫明宗教事務不受外國勢力支配;印度序言自稱世俗共和國,同時第二十五條把「傳播」宗教也列進自由裡;台灣憲法第十三條只有七個字:「人民有信仰宗教之自由。
+- [租屋押金與房東權限:押幾個月、能不能說終止就終止](https://aeiou.now/topic/renting-a-home/): 台灣《租賃住宅市場發展及管理條例》第7條把押金封頂在二個月租金總額,第10條列出房東可提前終止租約的五款情形,其中四款須「終止前三十日」書面通知,收回重建則要「終止前三個月」;中國2025年9月15日施行的《住房租賃條例》(國務院令第812號)第十條只要求押金金額、返還時間與扣減情形寫進合約、無正當理由不得扣減,卻沒有設金額上限——同樣談押金,兩岸給的答案完全不同。
+- [居留證幾天內辦？換住址、換工作要不要通報](https://aeiou.now/topic/residency-and-visas/): 台灣的外僑居留證由移民署核發，入境後30日內要辦，地址變更也是30日內，逾期依《入出國及移民法》罰新台幣2,000至10,000元；日本的在留卡則是14日——不管是初次登記住所還是換工作後的所屬機關異動，《入管法》都定在14日內。
+- [購物節](https://aeiou.now/topic/shopping-festivals/): 購物節是這些主題裡唯一由零售業自己造出來、政府事後才追認或管制的日子。 美國聯邦法裡沒有黑色星期五，只有感恩節；中國的雙十一由市場監管總局每年發合規提示，還把折扣基準寫死成「促銷前七日內最低成交價」；印尼的 Harbolnas 由貿易部掛名，部長本人到電商辦公室直播賣貨；印度不問折扣真不真，改問介面騙不騙人。
+- [七夕](https://aeiou.now/topic/tanabata-and-qixi/): 同一個牛郎織女的故事、同一個農曆七月初七，在三個社會被辦成三種不同的節日。 台灣的七夕是情人節，也是七娘媽生——台南的「做十六歲」成年禮就辦在這一天；中國把它列進第一批國家級非物質文化遺產，卻連「明列但不放假」的那份名單都沒進；日本在明治改曆後把它整個搬到國曆七月七日，仙台則往後挪一個月、固定在八月六日到八日。
+- [教師節](https://aeiou.now/topic/teachers-day/): 七個地方的教師節落在七個不同日期，選日期的理由也完全不同：台灣選孔子誕辰，中國大陸由全國人大常委會決議選在九月十日，印度用哲學家出身的第二任總統生日，巴西溯源到一八二七年的辦學法令，印尼用全國教師工會成立的那一天，新加坡跟著學校行事曆在九月初，美國則做成五月的一整週。
+- [投票這件事,各國要求的不一樣](https://aeiou.now/topic/voting-and-elections/): 巴西憲法第十四條把投票寫成十八到七十歲公民的義務,不去要說明理由;台灣《公職人員選舉罷免法》第十七條規定「應於戶籍地投票所投票」,沒有不在籍投票,於是投票日變成一次全島的返鄉移動;中國憲法第九十七條把直接選舉留在縣、鄉這一級,省與設區的市由下一級人大選出;美國的選舉日寫在聯邦法典裡是「十一月第一個星期一之後的星期二」,而那天不是假日。
+- [戰歿者與退伍軍人](https://aeiou.now/topic/war-dead-and-veterans/): 美國把「死者」與「生還者」拆成兩個聯邦假日：五月的陣亡將士紀念日給戰死的人，十一月十一日的退伍軍人節給活著回來的人。
+- [婚禮與婚俗](https://aeiou.now/topic/weddings-and-customs/): 婚禮的法律入口各不相同：台灣必須到戶政事務所登記才生效，日本提出婚姻届就成立，巴西以民事登記為核心，印尼通常把宗教儀式與國家登記疊在一起，印度可走各社群屬人法或《特別婚姻法》，中國大陸法定結婚年齡為男 22、女 20，美國則由各州管理結婚證。
+- [婦女節](https://aeiou.now/topic/womens-day/): 三月八日在七個地方是同一天，法律待遇卻完全不同。 中國給婦女放半天有薪假，寫在國務院的放假辦法裡；台灣把婦女節列為「節日」，但條例明講不放假；美國乾脆不用這一天，整個三月都是婦女歷史月；巴西的國定婦女節本來在四月三十日，二〇二五年才用新法搬到三月八日。
+- [年終獎金與十三個月薪水](https://aeiou.now/topic/year-end-bonus/): 台灣的年終獎金依《勞動基準法》第二十九條,是「營業年度終了結算有盈餘」時才分配的獎金——有條件、沒有期限、沒有罰則,實際發多少由公司決定。
+
+## 國定假日
+
+- [2026 年巴西假日](https://aeiou.now/holidays/br/2026/)
+- [2027 年巴西假日](https://aeiou.now/holidays/br/2027/)
+- [2028 年巴西假日](https://aeiou.now/holidays/br/2028/)
+- [2026 年中國假日](https://aeiou.now/holidays/cn/2026/)
+- [2027 年中國假日](https://aeiou.now/holidays/cn/2027/)
+- [2028 年中國假日](https://aeiou.now/holidays/cn/2028/)
+- [2026 年印尼假日](https://aeiou.now/holidays/id/2026/)
+- [2027 年印尼假日](https://aeiou.now/holidays/id/2027/)
+- [2028 年印尼假日](https://aeiou.now/holidays/id/2028/)
+- [2026 年印度假日](https://aeiou.now/holidays/in/2026/)
+- [2027 年印度假日](https://aeiou.now/holidays/in/2027/)
+- [2028 年印度假日](https://aeiou.now/holidays/in/2028/)
+- [2026 年日本假日](https://aeiou.now/holidays/jp/2026/)
+- [2027 年日本假日](https://aeiou.now/holidays/jp/2027/)
+- [2028 年日本假日](https://aeiou.now/holidays/jp/2028/)
+- [2026 年南韓假日](https://aeiou.now/holidays/kr/2026/)
+- [2027 年南韓假日](https://aeiou.now/holidays/kr/2027/)
+- [2028 年南韓假日](https://aeiou.now/holidays/kr/2028/)
+- [2026 年馬來西亞假日](https://aeiou.now/holidays/my/2026/)
+- [2027 年馬來西亞假日](https://aeiou.now/holidays/my/2027/)
+- [2028 年馬來西亞假日](https://aeiou.now/holidays/my/2028/)
+- [2026 年菲律賓假日](https://aeiou.now/holidays/ph/2026/)
+- [2027 年菲律賓假日](https://aeiou.now/holidays/ph/2027/)
+- [2028 年菲律賓假日](https://aeiou.now/holidays/ph/2028/)
+- [2026 年新加坡假日](https://aeiou.now/holidays/sg/2026/)
+- [2027 年新加坡假日](https://aeiou.now/holidays/sg/2027/)
+- [2028 年新加坡假日](https://aeiou.now/holidays/sg/2028/)
+- [2026 年泰國假日](https://aeiou.now/holidays/th/2026/)
+- [2027 年泰國假日](https://aeiou.now/holidays/th/2027/)
+- [2028 年泰國假日](https://aeiou.now/holidays/th/2028/)
+- [2026 年台灣假日](https://aeiou.now/holidays/tw/2026/)
+- [2027 年台灣假日](https://aeiou.now/holidays/tw/2027/)
+- [2028 年台灣假日](https://aeiou.now/holidays/tw/2028/)
+- [2026 年美國假日](https://aeiou.now/holidays/us/2026/)
+- [2027 年美國假日](https://aeiou.now/holidays/us/2027/)
+- [2028 年美國假日](https://aeiou.now/holidays/us/2028/)
+- [2026 年越南假日](https://aeiou.now/holidays/vn/2026/)
+- [2027 年越南假日](https://aeiou.now/holidays/vn/2027/)
+- [2028 年越南假日](https://aeiou.now/holidays/vn/2028/)
+
+## 世界問題集
+
+- [情人節](https://aeiou.now/questions/affection-and-reciprocity/)
+- [開學季](https://aeiou.now/questions/back-to-school/)
+- [生日與祝壽](https://aeiou.now/questions/birthdays-and-blessings/)
+- [兒童節](https://aeiou.now/questions/childrens-day/)
+- [基督宗教曆的其他日子](https://aeiou.now/questions/christian-calendar-days/)
+- [聖誕節](https://aeiou.now/questions/christmas/)
+- [排燈節（Diwali）](https://aeiou.now/questions/diwali/)
+- [復活節](https://aeiou.now/questions/easter/)
+- [廢奴與解放紀念日](https://aeiou.now/questions/emancipation-and-abolition/)
+- [節氣、分至與假日](https://aeiou.now/questions/equinox-and-seasonal-turns/)
+- [大考季](https://aeiou.now/questions/exam-season/)
+- [父親節](https://aeiou.now/questions/fathers-day/)
+- [鬼節、祭祖與追思](https://aeiou.now/questions/ghosts-ancestors-and-remembrance/)
+- [收成與感恩](https://aeiou.now/questions/harvest-and-gratitude/)
+- [返鄉與團聚](https://aeiou.now/questions/homecoming-and-reunion/)
+- [伊斯蘭曆的其他日子](https://aeiou.now/questions/islamic-calendar-days/)
+- [勞動節](https://aeiou.now/questions/labour-day/)
+- [元宵節](https://aeiou.now/questions/lantern-festival/)
+- [中秋與月見](https://aeiou.now/questions/mid-autumn-and-moon-viewing/)
+- [母親節](https://aeiou.now/questions/mothers-day/)
+- [國慶日](https://aeiou.now/questions/national-days/)
+- [新年](https://aeiou.now/questions/new-year/)
+- [教師節](https://aeiou.now/questions/teachers-day/)
+- [婦女節](https://aeiou.now/questions/womens-day/)
+- [年終獎金與十三個月薪水](https://aeiou.now/questions/year-end-bonus/)
+
+---
+
+## 情人節
+
+https://aeiou.now/topic/affection-and-reciprocity/
+
+表達愛意的日子不只一個，也不在同一天：日本二月十四日由女性送巧克力、三月十四日再回禮，台灣同時過二月十四日與農曆七夕，巴西把它放在六月十二日，印度拉成情人週，美國則是單一天。這一頁比較的是誰送、誰回、送什麼，以及這件事在各地留下多大的可量測痕跡；查印尼 2027 情人節日期時，也要先知道它不是國定假日，部分地方學校反而會發布勸阻通知。
+
+- [巴西](https://aeiou.now/topic/affection-and-reciprocity/br/)
+- [中國](https://aeiou.now/topic/affection-and-reciprocity/cn/)
+- [印尼](https://aeiou.now/topic/affection-and-reciprocity/id/)
+- [印度](https://aeiou.now/topic/affection-and-reciprocity/in/)
+- [日本](https://aeiou.now/topic/affection-and-reciprocity/jp/)
+- [台灣](https://aeiou.now/topic/affection-and-reciprocity/tw/)
+- [美國](https://aeiou.now/topic/affection-and-reciprocity/us/)
+
+## 跨國問答
+
+https://aeiou.now/topic/ask-the-world/
+
+想知道台灣、日本、美國、印度、印尼或巴西怎麼上學、買菜、過節或處理日常小事？把問題寫下來，請住在當地的人分享經驗。這是一個全年開放的常設主題。
+
+## 開學季
+
+https://aeiou.now/topic/back-to-school/
+
+開學日沒有全球統一答案：日本學年依法從 4 月 1 日到隔年 3 月 31 日，台灣學年從 8 月 1 日開始但學生多在 9 月初返校，中國大陸多由地方校曆排在 8 月底至 9 月初；印尼多在 7 月第三週、印度落在 4–6 月的邦別窗口，巴西多在 2 月開學，美國則由學區排在 7 月底至 9 月初。這一頁把日期、校服書本費、接送與家庭準備分開比較，因為「返校季」同時是行政安排與家庭支出。
+
+- [巴西](https://aeiou.now/topic/back-to-school/br/)
+- [中國](https://aeiou.now/topic/back-to-school/cn/)
+- [印尼](https://aeiou.now/topic/back-to-school/id/)
+- [印度](https://aeiou.now/topic/back-to-school/in/)
+- [日本](https://aeiou.now/topic/back-to-school/jp/)
+- [台灣](https://aeiou.now/topic/back-to-school/tw/)
+- [美國](https://aeiou.now/topic/back-to-school/us/)
+
+## 啤酒節
+
+https://aeiou.now/topic/beer-festivals/
+
+同一個從德國搬出去的節慶，各國政府站的位置完全不同。巴西的十月啤酒節由布盧梅瑙市政府主辦，主場館本身就登記在市府的機關表上；中國的青島國際啤酒節由青島市政府主辦，辦在七月到八月而不是十月，源頭是一九〇三年德國與英國商人在青島建的啤酒廠；美國的辛辛那提由民間主辦，政府只負責核發臨時售酒許可，而且明文規定不得發給營利者；印尼則因為酒類管制，同一種活動在制度上不存在。政府自己辦、和政府管到辦不成，是同一條軸的兩端。
+
+- [巴西](https://aeiou.now/topic/beer-festivals/br/)
+- [中國](https://aeiou.now/topic/beer-festivals/cn/)
+- [日本](https://aeiou.now/topic/beer-festivals/jp/)
+- [美國](https://aeiou.now/topic/beer-festivals/us/)
+- [印尼](https://aeiou.now/topic/beer-festivals/id/)
+- [印度](https://aeiou.now/topic/beer-festivals/in/)
+- [台灣](https://aeiou.now/topic/beer-festivals/tw/)
+
+## 生日與祝壽
+
+https://aeiou.now/topic/birthdays-and-blessings/
+
+生日與祝壽不只有蛋糕：台灣同時有週歲、虛歲與六十歲起的做壽，日本把數え年改由法律推向滿年齡並保留還曆等節點，美國的 16、18、21 歲連著不同權利；印度常在公曆生日與 tithi 之間切換，印尼以 syukuran 分享，巴西則有 15 歲 festa de 15 anos。這一頁比較日期、年齡算法、食物、贈禮與家庭儀式，不把某一種生日形式當成全球標準。
+
+- [巴西](https://aeiou.now/topic/birthdays-and-blessings/br/)
+- [中國](https://aeiou.now/topic/birthdays-and-blessings/cn/)
+- [印尼](https://aeiou.now/topic/birthdays-and-blessings/id/)
+- [印度](https://aeiou.now/topic/birthdays-and-blessings/in/)
+- [日本](https://aeiou.now/topic/birthdays-and-blessings/jp/)
+- [台灣](https://aeiou.now/topic/birthdays-and-blessings/tw/)
+- [美國](https://aeiou.now/topic/birthdays-and-blessings/us/)
+
+## 家庭照護與代間
+
+https://aeiou.now/topic/caregiving-across-generations/
+
+家庭照護的關鍵不只是長輩住不住一起，而是誰負責、能不能申請支援：台灣由長照 2.0 和 1966 專線評估，日本以 40 歲起繳費、65 歲起認定的介護保險分擔，印度可向法定裁判庭申請扶養費，巴西把高齡者權利寫進法律；中國大陸、印尼仍由家庭與社區承擔很大一部分，美國則由 Medicare、Medicaid、私人保險與自費拼接。這一頁把法律義務、公共服務與家庭能力分開比較。
+
+- [巴西](https://aeiou.now/topic/caregiving-across-generations/br/)
+- [中國](https://aeiou.now/topic/caregiving-across-generations/cn/)
+- [印尼](https://aeiou.now/topic/caregiving-across-generations/id/)
+- [印度](https://aeiou.now/topic/caregiving-across-generations/in/)
+- [日本](https://aeiou.now/topic/caregiving-across-generations/jp/)
+- [台灣](https://aeiou.now/topic/caregiving-across-generations/tw/)
+- [美國](https://aeiou.now/topic/caregiving-across-generations/us/)
+
+## 狂歡節
+
+https://aeiou.now/topic/carnival/
+
+巴西的狂歡節不是法定假日。它是「彈性放假日」——由管理部每年發布法令，指定星期一與星期二為聯邦機關的彈性放假日，聖灰星期三則放到下午兩點。也就是說，全世界最大的節慶在它自己的國家沒有法定假日的地位，靠的是一份逐年重發的行政命令。美國把它變成路易斯安那州的法定假日，日本把它移到八月、拿掉了齋戒，印度果阿留下了葡萄牙統治時期的形式。
+
+- [巴西](https://aeiou.now/topic/carnival/br/)
+- [印度](https://aeiou.now/topic/carnival/in/)
+- [日本](https://aeiou.now/topic/carnival/jp/)
+- [美國](https://aeiou.now/topic/carnival/us/)
+- [中國](https://aeiou.now/topic/carnival/cn/)
+- [印尼](https://aeiou.now/topic/carnival/id/)
+- [台灣](https://aeiou.now/topic/carnival/tw/)
+
+## 兒童節
+
+https://aeiou.now/topic/childrens-day/
+
+六個地方的兒童節落在六個不同日期，從四月到十一月都有，而且「誰放假」也不一樣：台灣全體放假一日，中國大陸只有不滿十四歲的孩子放假一天，日本的法定趣旨連「感謝母親」都寫進去，印尼是總統令訂的紀念日、每年由部會定主題，巴西的日期和天主教的主保聖人同一天，印度則綁在尼赫魯的生日。
+
+- [巴西](https://aeiou.now/topic/childrens-day/br/)
+- [中國](https://aeiou.now/topic/childrens-day/cn/)
+- [印尼](https://aeiou.now/topic/childrens-day/id/)
+- [印度](https://aeiou.now/topic/childrens-day/in/)
+- [日本](https://aeiou.now/topic/childrens-day/jp/)
+- [台灣](https://aeiou.now/topic/childrens-day/tw/)
+- [美國](https://aeiou.now/topic/childrens-day/us/)
+
+## 基督宗教曆的其他日子
+
+https://aeiou.now/topic/christian-calendar-days/
+
+聖誕節與復活節之外，同一套復活節推算法還推出一整串日子：聖灰星期三、耶穌受難日、耶穌升天日、五旬節、基督聖體聖血節。它們在各地制度裡的位置差到極點。穆斯林人口最多的印尼把受難日與升天日都列為全國法定假日，還替升天日多放一天共同休假；天主教徒最多的巴西，Corpus Christi 在聯邦層級只是彈性放假日，要各市自己立法才算法定假日。美國聯邦十一個法定假日裡只有聖誕節一個基督宗教的日子。五旬節則七個地方都沒有——它永遠落在星期日。
+
+- [巴西](https://aeiou.now/topic/christian-calendar-days/br/)
+- [印尼](https://aeiou.now/topic/christian-calendar-days/id/)
+- [美國](https://aeiou.now/topic/christian-calendar-days/us/)
+- [中國](https://aeiou.now/topic/christian-calendar-days/cn/)
+- [印度](https://aeiou.now/topic/christian-calendar-days/in/)
+- [日本](https://aeiou.now/topic/christian-calendar-days/jp/)
+- [台灣](https://aeiou.now/topic/christian-calendar-days/tw/)
+
+## 聖誕節
+
+https://aeiou.now/topic/christmas/
+
+十二月二十五日在七個地方不是同一件事：巴西、美國、印尼、印度把它列為法定假日，台灣同一天放的是行憲紀念日，日本與中國大陸則照常上班。這一頁比較它在各地的法律地位、日期前後的作息，以及家庭與商業各自的參與方式。
+
+- [中國](https://aeiou.now/topic/christmas/cn/)
+- [日本](https://aeiou.now/topic/christmas/jp/)
+- [台灣](https://aeiou.now/topic/christmas/tw/)
+
+## 成年禮
+
+https://aeiou.now/topic/coming-of-age/
+
+法定成年與成年禮不是同一條線：台灣、中國大陸與印度把民事成年放在 18 歲，日本 2022 年降為 18 歲但許多成人式仍以 20 歲為對象；印尼 17 歲先取得身分證與投票權、18 歲才脫離兒童保護定義，巴西 18 歲成年但有提前取得完全行為能力的門， 美國則把投票、喝酒、簽約等權利拆成不同年齡。這一頁比較法律門檻、宗教儀式、家庭承認與本人選擇，不把典禮當成唯一成年方式。
+
+- [巴西](https://aeiou.now/topic/coming-of-age/br/)
+- [中國](https://aeiou.now/topic/coming-of-age/cn/)
+- [印尼](https://aeiou.now/topic/coming-of-age/id/)
+- [印度](https://aeiou.now/topic/coming-of-age/in/)
+- [日本](https://aeiou.now/topic/coming-of-age/jp/)
+- [台灣](https://aeiou.now/topic/coming-of-age/tw/)
+- [美國](https://aeiou.now/topic/coming-of-age/us/)
+
+## 義務教育:幾歲到幾歲,而且「義務」是誰的
+
+https://aeiou.now/topic/compulsory-education/
+
+台灣《國民教育法》第三條寫六歲至十五歲,九年,而且強迫入學另以法律定之;巴西憲法第二〇八條經二〇〇九年修憲後是四歲到十七歲,七國裡跨度最寬;印度憲法第二十一A條是六到十四歲,而它被放在基本權利那一篇,是可以上法院請求的;印尼憲法第三十一條第二項把義務同時放在兩邊——公民有義務就學、政府有義務出錢,第四項還規定教育預算至少占百分之二十;日本憲法第二十六條的義務落在家長身上;中國憲法第四十六條一句話把受教育同時寫成權利與義務;美國聯邦沒有規定,各州自己訂,起訖年齡從五歲到七歲起、十六到十八歲止都有。
+
+- [巴西](https://aeiou.now/topic/compulsory-education/br/)
+- [中國](https://aeiou.now/topic/compulsory-education/cn/)
+- [印尼](https://aeiou.now/topic/compulsory-education/id/)
+- [印度](https://aeiou.now/topic/compulsory-education/in/)
+- [日本](https://aeiou.now/topic/compulsory-education/jp/)
+- [台灣](https://aeiou.now/topic/compulsory-education/tw/)
+- [美國](https://aeiou.now/topic/compulsory-education/us/)
+
+## 排燈節（Diwali）
+
+https://aeiou.now/topic/diwali/
+
+2026 年印度排燈節（Diwali／Deepavali）的主節日是 11 月 8 日星期日；它依 Kartika 月新月日變動，五天是文化與宗教節期，不等於全印度統一放五天假。這一頁把 Dhanteras、主節日與 Bhai Dooj 分開看，再比較印度官方「All India」假日清單中的 Diwali 與美國城市學校假日；查印度排燈節 2026 日期時，不要把文化節期、中央政府清單和地方行事曆混成同一層。
+
+- [印度](https://aeiou.now/topic/diwali/in/)
+- [美國](https://aeiou.now/topic/diwali/us/)
+- [巴西](https://aeiou.now/topic/diwali/br/)
+- [中國](https://aeiou.now/topic/diwali/cn/)
+- [印尼](https://aeiou.now/topic/diwali/id/)
+- [日本](https://aeiou.now/topic/diwali/jp/)
+- [台灣](https://aeiou.now/topic/diwali/tw/)
+
+## 端午節
+
+https://aeiou.now/topic/dragon-boat-festival/
+
+農曆五月初五在台灣與中國大陸都放假，日本卻把同一個「端午」挪到公曆五月五日、寫成法定的兒童節。這一頁比較四件事：誰放假、粽子與龍舟落在哪裡、地方版本被單獨列為文化資產的程度，以及同一個節日在日本如何轉義成「重視孩子的人格、同時感謝母親」。
+
+- [中國](https://aeiou.now/topic/dragon-boat-festival/cn/)
+- [印尼](https://aeiou.now/topic/dragon-boat-festival/id/)
+- [日本](https://aeiou.now/topic/dragon-boat-festival/jp/)
+- [台灣](https://aeiou.now/topic/dragon-boat-festival/tw/)
+- [巴西](https://aeiou.now/topic/dragon-boat-festival/br/)
+- [印度](https://aeiou.now/topic/dragon-boat-festival/in/)
+
+## 復活節
+
+https://aeiou.now/topic/easter/
+
+復活節在四個地方的制度位置差距很大，而且方向出乎意料：穆斯林人口占多數的印尼把受難日、復活節、升天節、聖誕節四個基督教節日都列為國定假日；基督徒占多數的美國一個都沒有列進聯邦假日；巴西把宗教假日的決定權交給市議會、上限四個；印度列進全國清單的是受難日而不是復活節。
+
+- [巴西](https://aeiou.now/topic/easter/br/)
+- [印尼](https://aeiou.now/topic/easter/id/)
+- [印度](https://aeiou.now/topic/easter/in/)
+- [美國](https://aeiou.now/topic/easter/us/)
+- [中國](https://aeiou.now/topic/easter/cn/)
+- [日本](https://aeiou.now/topic/easter/jp/)
+- [台灣](https://aeiou.now/topic/easter/tw/)
+
+## 宰牲節
+
+https://aeiou.now/topic/eid-al-adha/
+
+2027 年宰牲節（古爾邦節）目前按曆算約在 5 月 17 日，但印尼、印度、台灣與中國大陸的正式公告或地方假期仍可能不同。這一頁把「日期估算」和「政府實際放假」分開，再比較印尼的國定假日、印度的全國假日、紐約市學校停課，以及巴西尚未列入法定紀念日的制度差異；日期與制度層級不能直接互換，這正是跨國查詢最容易誤讀的地方。
+
+- [巴西](https://aeiou.now/topic/eid-al-adha/br/)
+- [中國](https://aeiou.now/topic/eid-al-adha/cn/)
+- [印尼](https://aeiou.now/topic/eid-al-adha/id/)
+- [印度](https://aeiou.now/topic/eid-al-adha/in/)
+- [台灣](https://aeiou.now/topic/eid-al-adha/tw/)
+- [美國](https://aeiou.now/topic/eid-al-adha/us/)
+- [日本](https://aeiou.now/topic/eid-al-adha/jp/)
+
+## 敬老日與祖父母節
+
+https://aeiou.now/topic/elders-day/
+
+2026 年七個地方的敬老日期依序落在：印尼 5 月 29 日、台灣 8 月 23 日、日本 9 月 21 日、美國 9 月 13 日、巴西與印度 10 月 1 日，以及中國大陸農曆重陽約 10 月 18 日。這一頁不只列日期，也比較哪些是國定假日、哪些是法律上的紀念日，哪些只是行政推廣；有些日期固定在月日，有些依星期或農曆推算，所以日期表和制度說明要一起讀。
+
+- [巴西](https://aeiou.now/topic/elders-day/br/)
+- [中國](https://aeiou.now/topic/elders-day/cn/)
+- [印尼](https://aeiou.now/topic/elders-day/id/)
+- [印度](https://aeiou.now/topic/elders-day/in/)
+- [日本](https://aeiou.now/topic/elders-day/jp/)
+- [台灣](https://aeiou.now/topic/elders-day/tw/)
+- [美國](https://aeiou.now/topic/elders-day/us/)
+
+## 廢奴與解放紀念日
+
+https://aeiou.now/topic/emancipation-and-abolition/
+
+美洲兩個最大的蓄奴社會，都到了二○二○年代才把廢奴放進國定假日：美國二○二一年、巴西二○二三年，距離奴隸制在法律上結束都超過一個半世紀。兩邊的路徑也一樣是由下而上——德州一九八○年就先把六月十九日訂成州假日，巴西的十一月二十日則先進學校行事曆、再成為全國紀念日、最後才是法定假日。印度沒有廢奴紀念日，最接近的四月十四日安貝卡誕辰甚至不在中央政府的年度假日清單裡，靠每年一紙公文放假；台灣把三月二十一日訂成民族平等紀念日，但明文不放假；日本有法律沒有日子；印尼與中國的全國假日清單裡都沒有這一類。
+
+- [巴西](https://aeiou.now/topic/emancipation-and-abolition/br/)
+- [印度](https://aeiou.now/topic/emancipation-and-abolition/in/)
+- [台灣](https://aeiou.now/topic/emancipation-and-abolition/tw/)
+- [美國](https://aeiou.now/topic/emancipation-and-abolition/us/)
+- [中國](https://aeiou.now/topic/emancipation-and-abolition/cn/)
+- [印尼](https://aeiou.now/topic/emancipation-and-abolition/id/)
+- [日本](https://aeiou.now/topic/emancipation-and-abolition/jp/)
+
+## 升學考試:進大學要考什麼、誰主辦、看不看在校成績
+
+https://aeiou.now/topic/entrance-exams/
+
+台灣考「學測」與「分科測驗」(大考中心主辦),三管道各有規則:申請入學的學測最多只計甄選總成績的50%,其餘看學習歷程與面試;分發入學純比分科測驗或學測分數高低;繁星推薦看在校成績全校排名,不需再考試分發。中國考「高考」(教育部統籌,每年6月7至8日),3+1+2模式滿分750分,還有「強基計畫」加考校考;日本考「大学入学共通テスト」(大學入試センター,每年1月一次),國公立大學再加各校「二次試験」;美國沒有全國統一考試,聯邦教育部無權管招生,SAT/ACT是民間機構(College Board、ACT Inc.)辦的測驗,多數學校用「整體審查」,2021年約25%的四年制大學是全額錄取;印度靠國家考試局(NTA)分科辦考——JEE Main(工程,一年兩次)、NEET UG(醫學,一年一次,全國唯一依據)、CUET UG(一般大學,一年一次,約48所中央大學已不看12年級成績);印尼國立大學靠SNBP(在校成績,配額至少20%)、SNBT(UTBK測驗,配額至少30至40%)、自主管道Jalur Mandiri(配額至多30至50%)三條分流;巴西靠ENEM(INEP每年辦一次)搭配SiSU申請公立大學名額,受「名額保障法」規範,但USP、UNICAMP等州立大學仍保留自己的vestibular。七個國家沒有一個做法相同——差在考幾次、誰辦、成績佔多少比例。
+
+- [巴西](https://aeiou.now/topic/entrance-exams/br/)
+- [中國](https://aeiou.now/topic/entrance-exams/cn/)
+- [印尼](https://aeiou.now/topic/entrance-exams/id/)
+- [印度](https://aeiou.now/topic/entrance-exams/in/)
+- [日本](https://aeiou.now/topic/entrance-exams/jp/)
+- [台灣](https://aeiou.now/topic/entrance-exams/tw/)
+- [美國](https://aeiou.now/topic/entrance-exams/us/)
+
+## 環境紀念日
+
+https://aeiou.now/topic/environment-days/
+
+環境紀念日幾乎都不放假，七個國家裡只有日本例外——五月四日的みどりの日是《國民の祝日に関する法律》第二條寫明的法定祝日。而它的來歷與環境無關：那一天原本是四月二十九日的天皇誕生日，昭和天皇過世後，一九八九年修法把它改名為みどりの日留住了假期，二〇〇七年再把名字搬到五月四日。其餘六國把環境日寫進法律、政令或人大決定，然後在同一部法裡明文不放假。
+
+- [巴西](https://aeiou.now/topic/environment-days/br/)
+- [中國](https://aeiou.now/topic/environment-days/cn/)
+- [印尼](https://aeiou.now/topic/environment-days/id/)
+- [印度](https://aeiou.now/topic/environment-days/in/)
+- [日本](https://aeiou.now/topic/environment-days/jp/)
+- [台灣](https://aeiou.now/topic/environment-days/tw/)
+- [美國](https://aeiou.now/topic/environment-days/us/)
+
+## 節氣、分至與假日
+
+https://aeiou.now/topic/equinox-and-seasonal-turns/
+
+這是唯一一類日期不是人挑的節日——太陽走到黃道上的某一點，那一天就是那一天。各國把這個天文事實接進制度的方式差很多：日本把春分與秋分寫成法定假日，日期交給國立天文台推算、前一年二月才由官報公告，所以日本人的假期要等到前一年才確定；台灣的《紀念日及節日實施條例》裡由節氣定日的只有清明節與農民節，冬至一個字都沒有；中國的法定假日裡只有清明節的日期由節氣決定；印度的摩羯宮入座日已經跟至點差了三個星期；美國乾脆不用天文，改用「三月第二個星期日」這種法律寫得死的規則。
+
+- [中國](https://aeiou.now/topic/equinox-and-seasonal-turns/cn/)
+- [印尼](https://aeiou.now/topic/equinox-and-seasonal-turns/id/)
+- [印度](https://aeiou.now/topic/equinox-and-seasonal-turns/in/)
+- [日本](https://aeiou.now/topic/equinox-and-seasonal-turns/jp/)
+- [台灣](https://aeiou.now/topic/equinox-and-seasonal-turns/tw/)
+- [美國](https://aeiou.now/topic/equinox-and-seasonal-turns/us/)
+- [巴西](https://aeiou.now/topic/equinox-and-seasonal-turns/br/)
+
+## 大考季
+
+https://aeiou.now/topic/exam-season/
+
+每個地方都有一場決定升學的全國性考試，但「決定」被壓縮到多短、分散到多開，差別極大。中國把它壓成六月七、八兩天一次定生死；巴西反過來，攤在十一月的兩個星期日；印度更極端，逐科分散兩個月；日本與台灣則是一場全國測驗加上各校自辦，兩段式。美國是唯一沒有全國入學考的地方。同一件事——十八歲那年要被怎麼衡量——七個地方給了七種答案。
+
+- [巴西](https://aeiou.now/topic/exam-season/br/)
+- [中國](https://aeiou.now/topic/exam-season/cn/)
+- [印尼](https://aeiou.now/topic/exam-season/id/)
+- [印度](https://aeiou.now/topic/exam-season/in/)
+- [日本](https://aeiou.now/topic/exam-season/jp/)
+- [台灣](https://aeiou.now/topic/exam-season/tw/)
+- [美國](https://aeiou.now/topic/exam-season/us/)
+
+## 告別與喪葬
+
+https://aeiou.now/topic/farewells-and-funerals/
+
+喪葬首先有一條行政時間線，也有一條家族與宗教時間線：日本死亡後原則上須等 24 小時才能火化或埋葬，台灣死亡登記期限是 30 日，印度是 21 日，巴西常在 24 小時內守靈後下葬；印尼穆斯林多在當日或隔日下葬，峇里島 ngaben 卻可能延後數月或數年。中國大陸的戶口註銷與火葬制度、美國各州的死亡證明規則，也都會改變家屬的安排。這一頁把文件、時程與哀悼儀式分開比較。
+
+- [巴西](https://aeiou.now/topic/farewells-and-funerals/br/)
+- [中國](https://aeiou.now/topic/farewells-and-funerals/cn/)
+- [印尼](https://aeiou.now/topic/farewells-and-funerals/id/)
+- [印度](https://aeiou.now/topic/farewells-and-funerals/in/)
+- [日本](https://aeiou.now/topic/farewells-and-funerals/jp/)
+- [台灣](https://aeiou.now/topic/farewells-and-funerals/tw/)
+- [美國](https://aeiou.now/topic/farewells-and-funerals/us/)
+
+## 父親節
+
+https://aeiou.now/topic/fathers-day/
+
+父親節在四個地方有三個不同日期，來歷也完全不同：台灣選八月八日是因為「八八」諧音爸爸，美國走了六十年才在一九七二年立法定案，巴西則是一九五三年由報社廣告人為了填補下半年的檔期而發明的。這一頁比較的是這個節日各自從哪裡長出來——諧音、立法，還是廣告。
+
+- [巴西](https://aeiou.now/topic/fathers-day/br/)
+- [中國](https://aeiou.now/topic/fathers-day/cn/)
+- [印尼](https://aeiou.now/topic/fathers-day/id/)
+- [印度](https://aeiou.now/topic/fathers-day/in/)
+- [日本](https://aeiou.now/topic/fathers-day/jp/)
+- [台灣](https://aeiou.now/topic/fathers-day/tw/)
+- [美國](https://aeiou.now/topic/fathers-day/us/)
+
+## 開國者與領袖紀念日
+
+https://aeiou.now/topic/founders-and-national-leaders/
+
+美國聯邦法律上的名字到今天仍是 Washington's Birthday——《美國法典》第五編第六一〇三條逐條列出的十一個法定公共假日裡,二月第三個星期一就是這個名字;「Presidents' Day」是各州與零售業的叫法,人事管理局甚至在假日表下面加註,說各州與民間可能用別的名字,但它的政策是一律以法律指定的名字稱呼。台灣走的是另一個極端:《紀念日及節日實施條例》第三條同時放了國父誕辰紀念日(十一月十二日)與國父逝世紀念日(三月十二日),一個人佔兩個日子,而第四條把放假的紀念日限縮到六個,兩個都不在裡面。日本在一九四八年制定《國民の祝日に関する法律》時,把戰前勅令裡帶著天皇名號的祭日全部換掉,今天十六個祝日沒有一個以個人命名,四月二十九日紀念的是「昭和」這個時代。巴西的一八九〇年第一五五-B 號法令明文寫著四月二十一日是為了紀念 Tiradentes,但現行的一九四九年第六六二號法律只寫「四月二十一日」四個字,名字被留在別的法律裡。
+
+- [巴西](https://aeiou.now/topic/founders-and-national-leaders/br/)
+- [印尼](https://aeiou.now/topic/founders-and-national-leaders/id/)
+- [印度](https://aeiou.now/topic/founders-and-national-leaders/in/)
+- [日本](https://aeiou.now/topic/founders-and-national-leaders/jp/)
+- [台灣](https://aeiou.now/topic/founders-and-national-leaders/tw/)
+- [美國](https://aeiou.now/topic/founders-and-national-leaders/us/)
+- [中國](https://aeiou.now/topic/founders-and-national-leaders/cn/)
+
+## 鬼節、祭祖與追思
+
+https://aeiou.now/topic/ghosts-ancestors-and-remembrance/
+
+2026 年台灣鬼月約從 8 月 13 日到 9 月 10 日，中國大陸中元節落在 8 月 27 日，日本盂蘭盆多數地區是 8 月 13–16 日；巴西亡者節則是 11 月 2 日。這一頁把鬼節、祭祖與追思分開比較，不預設每個家庭或社群都會用同一種方式參與。
+
+- [中國](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/cn/)
+- [日本](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/jp/)
+- [台灣](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/tw/)
+- [印尼](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/id/)
+- [印度](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/in/)
+- [美國](https://aeiou.now/topic/ghosts-ancestors-and-remembrance/us/)
+
+## 畢業季
+
+https://aeiou.now/topic/graduation-season/
+
+畢業季不是同一個月份：日本在 3 月接著 4 月新學年，台灣與中國大陸多在 6–7 月，美國由學區排在 5–6 月，印度多在 3–5 月並跟著 board exam 放榜，印尼多在 5–6 月、巴西則在 12 月。中國大陸的高考、印度的成績與志願、印尼下一學年的註冊，常比畢業典禮更決定家庭接下來做什麼。這一頁比較儀式、照片與送禮，也比較畢業和下一階段行政流程的落差。
+
+- [巴西](https://aeiou.now/topic/graduation-season/br/)
+- [中國](https://aeiou.now/topic/graduation-season/cn/)
+- [印尼](https://aeiou.now/topic/graduation-season/id/)
+- [印度](https://aeiou.now/topic/graduation-season/in/)
+- [日本](https://aeiou.now/topic/graduation-season/jp/)
+- [台灣](https://aeiou.now/topic/graduation-season/tw/)
+- [美國](https://aeiou.now/topic/graduation-season/us/)
+
+## 萬聖節
+
+https://aeiou.now/topic/halloween/
+
+十月三十一日的萬聖節不是任何一個國家的法定假日——七個市場沒有一個把它寫進放假的法律裡。差別在於各國政府仍然管到什麼程度：美國聯邦不放假，卻由食品藥物管理局把變裝用的隱形眼鏡當醫療器材取締，而俄亥俄州都柏林市把二○二六年的討糖夜挪到十月二十九日；日本沒有全國規定，東京兩個區各自立了條例，其中一位區長公開請人不要來；巴西沒有給它假期，卻在同一天用州法立了一個對抗它的節日。
+
+- [巴西](https://aeiou.now/topic/halloween/br/)
+- [日本](https://aeiou.now/topic/halloween/jp/)
+- [台灣](https://aeiou.now/topic/halloween/tw/)
+- [美國](https://aeiou.now/topic/halloween/us/)
+- [中國](https://aeiou.now/topic/halloween/cn/)
+- [印尼](https://aeiou.now/topic/halloween/id/)
+- [印度](https://aeiou.now/topic/halloween/in/)
+
+## 收成與感恩
+
+https://aeiou.now/topic/harvest-and-gratitude/
+
+收成要不要變成節日、由誰來定義，五個地方給了五種答案：美國把它做成聯邦假日的家庭餐桌；印度的 Pongal 從農曆與太陽入宮算起，煮的那鍋粥就是儀式本身；巴西把它綁在六月的三個聖人日；中國大陸在二○一八年由國務院批復，替農民新設了一個節；日本則把戰前的新嘗祭改寫成「感謝勞動」的國民假日。
+
+- [巴西](https://aeiou.now/topic/harvest-and-gratitude/br/)
+- [中國](https://aeiou.now/topic/harvest-and-gratitude/cn/)
+- [印度](https://aeiou.now/topic/harvest-and-gratitude/in/)
+- [日本](https://aeiou.now/topic/harvest-and-gratitude/jp/)
+- [台灣](https://aeiou.now/topic/harvest-and-gratitude/tw/)
+- [美國](https://aeiou.now/topic/harvest-and-gratitude/us/)
+- [印尼](https://aeiou.now/topic/harvest-and-gratitude/id/)
+
+## 全民健保:誰強制納保,錢由誰出
+
+https://aeiou.now/topic/health-coverage/
+
+台灣《全民健康保險法》第一條把加入寫成強制,1995年3月開辦,保費由雇主60%、被保險人30%、政府10%分攤;日本靠1958年《國民健康保險法》要求每個市町村開辦國保,1961年才補齊「國民皆保險」最後一塊,病人自付比例依年齡從75歲以上的1成到6至69歲的3成不等;印尼《2004年SJSN法》第四條同樣明文「參保具強制性」,外國人工作滿六個月就納入,門檻幾乎與台灣一樣;巴西的SUS是1988年憲法第一九六條「健康是所有人的權利、國家的義務」的直接產物,對境內任何人一律免費。相對地,中國大陸雖把「全民醫保」覆蓋率做到95%,職工醫保與居民醫保住院報銷比例卻相差18個百分點(84.1%對66.0%);印度沒有一套全民強制健保,PM-JAY只鎖定最貧窮四成家庭,病人自付醫療支出仍占43.4%;美國則是七國唯一沒有全民覆蓋保證的國家——2019年起聯邦強制令名存實亡,2024年仍有8.0%人口沒有保險,卻是人均醫療支出最高的國家。
+
+- [巴西](https://aeiou.now/topic/health-coverage/br/)
+- [中國](https://aeiou.now/topic/health-coverage/cn/)
+- [印尼](https://aeiou.now/topic/health-coverage/id/)
+- [印度](https://aeiou.now/topic/health-coverage/in/)
+- [日本](https://aeiou.now/topic/health-coverage/jp/)
+- [台灣](https://aeiou.now/topic/health-coverage/tw/)
+- [美國](https://aeiou.now/topic/health-coverage/us/)
+
+## 返鄉與團聚
+
+https://aeiou.now/topic/homecoming-and-reunion/
+
+返鄉不只是一個節日名詞：台灣主要在農曆春節、日本集中在年末年始與お盆、中國大陸有前後約四十天的春運，美國以感恩節形成最大返鄉潮；印度的移動則跟著各邦節日分散，印尼的 mudik 常在開齋節前後，巴西也會受學校與家庭行事曆影響。這一頁比較每個地方的日期、休假、交通壓力與團聚方式，也保留不返鄉或無法返鄉的家庭選擇。
+
+- [印尼](https://aeiou.now/topic/homecoming-and-reunion/id/)
+- [日本](https://aeiou.now/topic/homecoming-and-reunion/jp/)
+- [巴西](https://aeiou.now/topic/homecoming-and-reunion/br/)
+- [中國](https://aeiou.now/topic/homecoming-and-reunion/cn/)
+- [印度](https://aeiou.now/topic/homecoming-and-reunion/in/)
+- [台灣](https://aeiou.now/topic/homecoming-and-reunion/tw/)
+- [美國](https://aeiou.now/topic/homecoming-and-reunion/us/)
+
+## 原住民族與殖民記憶
+
+https://aeiou.now/topic/indigenous-and-colonial-memory/
+
+臺灣把原住民族的記憶寫進法律，但沒有寫進放假：《紀念日及節日實施條例》第三條同時列了原住民族日（八月一日）、原住民族抵抗日（六月二十六日）與民族平等紀念日（三月二十一日），三個都只紀念、不放假；真正放假的是原住民族歲時祭儀，而且只放給具原住民身分的人、由各族自己擇定三日。美國的做法完全相反——同一格日曆被兩個名字爭奪：聯邦法律至今寫的是哥倫布日，南達科他州寫的是原住民族日，阿拉巴馬州兩個都寫。巴西二○二二年把「Dia do Índio」改名，印度二○二一年新設了一個部落榮耀日，日本承認了先住民族卻沒有給它一天。
+
+- [巴西](https://aeiou.now/topic/indigenous-and-colonial-memory/br/)
+- [印度](https://aeiou.now/topic/indigenous-and-colonial-memory/in/)
+- [台灣](https://aeiou.now/topic/indigenous-and-colonial-memory/tw/)
+- [美國](https://aeiou.now/topic/indigenous-and-colonial-memory/us/)
+- [中國](https://aeiou.now/topic/indigenous-and-colonial-memory/cn/)
+- [印尼](https://aeiou.now/topic/indigenous-and-colonial-memory/id/)
+- [日本](https://aeiou.now/topic/indigenous-and-colonial-memory/jp/)
+
+## 伊斯蘭曆的其他日子
+
+https://aeiou.now/topic/islamic-calendar-days/
+
+2026 年印尼先知誕辰是 8 月 25 日、印度的 Milad-un-Nabi 是 8 月 26 日；兩國都把它列入官方行事曆，但不是同一天。這一頁也比較印尼的伊斯蘭新年與夜行登霄、印度的阿舒拉，說明齋戒月與兩個開齋節之外，其他伊斯蘭日子如何被不同制度承認。印尼的日期由三部會聯合決定書公告，印度則依中央政府的 gazetted holidays；同名節日在不同國家落在不同公曆日，不代表其中一方算錯。
+
+- [印尼](https://aeiou.now/topic/islamic-calendar-days/id/)
+- [印度](https://aeiou.now/topic/islamic-calendar-days/in/)
+- [巴西](https://aeiou.now/topic/islamic-calendar-days/br/)
+- [中國](https://aeiou.now/topic/islamic-calendar-days/cn/)
+- [日本](https://aeiou.now/topic/islamic-calendar-days/jp/)
+- [台灣](https://aeiou.now/topic/islamic-calendar-days/tw/)
+- [美國](https://aeiou.now/topic/islamic-calendar-days/us/)
+
+## 猶太曆的日子
+
+https://aeiou.now/topic/jewish-calendar-days/
+
+猶太新年、贖罪日、逾越節、光明節都不是任何一個國家的國定假日，連猶太社群最大的美國也不是——聯邦假日由《美國法典》第五編第 6103 條寫死，裡面唯一的宗教節日是聖誕節。差別在於國家改用什麼替代：紐約市公立學校為贖罪日停課一天，紐澤西州立法要求學區為十幾個猶太節日准假，巴西則有一條全國性的法律讓學生因宗教戒守之日改期補考。台灣、日本、中國、印度、印尼的法規裡則一天都沒有，各自的理由還不一樣。
+
+- [美國](https://aeiou.now/topic/jewish-calendar-days/us/)
+- [巴西](https://aeiou.now/topic/jewish-calendar-days/br/)
+- [中國](https://aeiou.now/topic/jewish-calendar-days/cn/)
+- [印尼](https://aeiou.now/topic/jewish-calendar-days/id/)
+- [印度](https://aeiou.now/topic/jewish-calendar-days/in/)
+- [日本](https://aeiou.now/topic/jewish-calendar-days/jp/)
+- [台灣](https://aeiou.now/topic/jewish-calendar-days/tw/)
+
+## 勞動節
+
+https://aeiou.now/topic/labour-day/
+
+五月一日是國際勞動節，但 2026 年美國勞動節是 9 月 7 日，不是 5 月 1 日。這七個地方沒有一個完全相同：台灣全體放假一日，中國大陸放兩天，巴西與印尼是國定假日，印度的全國假日清單裡沒有五月一日，日本五月一日照常上班，而美國把自己的 Labor Day 放在九月第一個星期一。
+
+- [中國](https://aeiou.now/topic/labour-day/cn/)
+- [印度](https://aeiou.now/topic/labour-day/in/)
+- [日本](https://aeiou.now/topic/labour-day/jp/)
+- [台灣](https://aeiou.now/topic/labour-day/tw/)
+- [美國](https://aeiou.now/topic/labour-day/us/)
+
+## 元宵節
+
+https://aeiou.now/topic/lantern-festival/
+
+元宵節同一天，在不同地方是不同的事：台灣把它過成三種完全不同的場面——吃湯圓與看燈會、在平溪把天燈放上天、在鹽水站進蜂炮裡；中國大陸則沒有把它列入全體公民放假的節日，是上班日。這一頁比較的是同一個農曆日期底下，儀式強度與制度地位的落差。
+
+- [中國](https://aeiou.now/topic/lantern-festival/cn/)
+- [印尼](https://aeiou.now/topic/lantern-festival/id/)
+- [台灣](https://aeiou.now/topic/lantern-festival/tw/)
+- [巴西](https://aeiou.now/topic/lantern-festival/br/)
+- [印度](https://aeiou.now/topic/lantern-festival/in/)
+- [日本](https://aeiou.now/topic/lantern-festival/jp/)
+- [美國](https://aeiou.now/topic/lantern-festival/us/)
+
+## 連假
+
+https://aeiou.now/topic/long-holiday-weeks/
+
+七個地方都有一串連續假期,把零散假日接成一整串的機器卻完全不同。日本靠祝日法自動補上中間那一天,誰也不必公告;中國靠國務院辦公廳每年發通知調休,把週末挪過來、之後再補上班;印尼由三個部會聯合決定共同休假日,而那幾天要從勞工自己的年休假扣;台灣二〇二五年改法之後只補假、不再借週末;巴西靠部會法令指定沒有名字的橋接日,而且只綁聯邦機關;美國一九六八年把五個假日移到星期一之後就沒再做別的;印度則由各邦依一八八一年的票據法自行公告,最長的一串長在一個邦裡。
+
+- [巴西](https://aeiou.now/topic/long-holiday-weeks/br/)
+- [中國](https://aeiou.now/topic/long-holiday-weeks/cn/)
+- [印尼](https://aeiou.now/topic/long-holiday-weeks/id/)
+- [印度](https://aeiou.now/topic/long-holiday-weeks/in/)
+- [日本](https://aeiou.now/topic/long-holiday-weeks/jp/)
+- [台灣](https://aeiou.now/topic/long-holiday-weeks/tw/)
+- [美國](https://aeiou.now/topic/long-holiday-weeks/us/)
+
+## 中秋與月見
+
+https://aeiou.now/topic/mid-autumn-and-moon-viewing/
+
+同一個滿月前後，四種過法：台灣與中國大陸放假、吃月餅、家人團聚；中國延邊的朝鮮族把它過成以掃墓祭祖為先的秋夕；日本則不放假，把它當成一個天文與season的節氣——而且國立天文台明講，中秋的月亮經常不是那一晚的滿月。
+
+- [中國](https://aeiou.now/topic/mid-autumn-and-moon-viewing/cn/)
+- [日本](https://aeiou.now/topic/mid-autumn-and-moon-viewing/jp/)
+- [台灣](https://aeiou.now/topic/mid-autumn-and-moon-viewing/tw/)
+- [巴西](https://aeiou.now/topic/mid-autumn-and-moon-viewing/br/)
+- [印尼](https://aeiou.now/topic/mid-autumn-and-moon-viewing/id/)
+- [印度](https://aeiou.now/topic/mid-autumn-and-moon-viewing/in/)
+
+## 兵役:被叫去的、只要登記的、和寫在憲法裡沒人叫的
+
+https://aeiou.now/topic/military-service/
+
+台灣《兵役法》第一條就是一句話:「中華民國男子依法皆有服兵役之義務」,第十六條把常備兵現役定為一年;中國憲法第五十五條說服兵役是「光榮義務」;巴西憲法第一百四十三條說義務,但同條讓良心因素者改服替代役、平時免除婦女與神職人員。美國更奇特——五十編第三八〇二節要求十八到二十六歲男性登記,而登記之後幾乎沒有人被徵召;日本憲法第九條乾脆不保持陸海空軍;印尼與印度的憲法都寫著公民有防衛國家的義務,卻都沒有徵兵制。同一句「保衛國家」,從一年的營區生活到一張表格,落差就是這麼大。
+
+- [巴西](https://aeiou.now/topic/military-service/br/)
+- [中國](https://aeiou.now/topic/military-service/cn/)
+- [印尼](https://aeiou.now/topic/military-service/id/)
+- [印度](https://aeiou.now/topic/military-service/in/)
+- [日本](https://aeiou.now/topic/military-service/jp/)
+- [台灣](https://aeiou.now/topic/military-service/tw/)
+- [美國](https://aeiou.now/topic/military-service/us/)
+
+## 最低工資：誰訂的、多久調一次、涵蓋到誰
+
+https://aeiou.now/topic/minimum-wage/
+
+台灣《最低工資法》(2023年制定)由最低工資審議會二十一人於每年第三季開會審議，2026年生效月薪29,500元、時薪196元，全國單一數字，不分地區；日本《最低賃金法》按四十七個都道府県分別由地方最低賃金審議會依中央目安審議，2026年度目安全國加權平均時薪1,176円，同一個國家四十七種不同金額；中國《最低工资规定》要求省級政府至少每兩年調整一次，同一省內還再分二到四個檔次——陝西2026年一類區月薪2,376元、三類區只有2,140元；美國聯邦最低工資7.25美元，自2009年7月24日起十七年未動，各州可以訂更高(華盛頓特區18.40美元)，也可以只等於聯邦標準；印度2019年《工資法》2026年4月1日才全面生效，把最低工資保障從原本只涵蓋約三成勞工的「附表僱傭」擴大到所有受僱者，但具拘束力的全國「地板工資」到2026年8月都還在諮詢階段，只有一個自2017年沿用至今、不具拘束力的每日176盧比參考值；印尼《2025年第49號政府條例》讓三十四個省的省長依當地經濟成長率各自訂UMP(省最低工資)，2026年雅加達最高達每月572萬9,876印尼盾；巴西《薪資價值化政策法》(2023年)由總統依前一年INPC通膨加前兩年GDP成長訂出全國單一數字，2026年為每月1,621雷亞爾，但聖保羅、南里奧格蘭德等州可以依法(2000年補充法第103號)另訂更高的「區域最低工資」。
+
+- [巴西](https://aeiou.now/topic/minimum-wage/br/)
+- [中國](https://aeiou.now/topic/minimum-wage/cn/)
+- [印尼](https://aeiou.now/topic/minimum-wage/id/)
+- [印度](https://aeiou.now/topic/minimum-wage/in/)
+- [日本](https://aeiou.now/topic/minimum-wage/jp/)
+- [台灣](https://aeiou.now/topic/minimum-wage/tw/)
+- [美國](https://aeiou.now/topic/minimum-wage/us/)
+
+## 母親節
+
+https://aeiou.now/topic/mothers-day/
+
+四個地方在五月第二個星期日過母親節，印尼卻在十二月二十二日——而且那不是一個「感謝媽媽」的日子，是紀念一九二八年第一屆印尼婦女大會的政治性紀念日。這一頁比較它在各地是怎麼被訂下來的：國會決議、法規列名不放假、花卉產業的需求高峰，還是一場婦女運動的起點。
+
+- [巴西](https://aeiou.now/topic/mothers-day/br/)
+- [中國](https://aeiou.now/topic/mothers-day/cn/)
+- [印尼](https://aeiou.now/topic/mothers-day/id/)
+- [印度](https://aeiou.now/topic/mothers-day/in/)
+- [日本](https://aeiou.now/topic/mothers-day/jp/)
+- [台灣](https://aeiou.now/topic/mothers-day/tw/)
+- [美國](https://aeiou.now/topic/mothers-day/us/)
+
+## 搬家與入厝
+
+https://aeiou.now/topic/moving-home/
+
+搬家有兩層問題：住址要不要向單一機關登記，以及新家要不要用儀式迎接。台灣遷入、遷出與住址變更原則上 30 日內辦理，日本遷入 14 日內申報，中國大陸牽動戶口，印尼要更新 KTP 與家庭卡；印度要分別更新 Aadhaar、選民名冊與銀行 KYC，美國與巴西沒有單一住址登記制度。這一頁把行政搬遷和入厝、housewarming、祈禱與鄰里往來分開比較。
+
+- [巴西](https://aeiou.now/topic/moving-home/br/)
+- [中國](https://aeiou.now/topic/moving-home/cn/)
+- [印尼](https://aeiou.now/topic/moving-home/id/)
+- [印度](https://aeiou.now/topic/moving-home/in/)
+- [日本](https://aeiou.now/topic/moving-home/jp/)
+- [台灣](https://aeiou.now/topic/moving-home/tw/)
+- [美國](https://aeiou.now/topic/moving-home/us/)
+
+## 國慶日
+
+https://aeiou.now/topic/national-days/
+
+2026 年接下來的國慶日包括巴西 9 月 7 日、台灣 10 月 10 日與中國大陸 10 月 1 日；但七個國慶日紀念的事件不同：有的紀念獨立宣言，有的紀念政權成立，有的紀念推翻帝制，日本則在 2 月 11 日以「建国記念の日」紀念傳說中的即位日，而不是一個可考的歷史建國日期。這一頁比較的是各地把「國家從哪一天算起」放在哪裡，也不把慶典、放假與建國史混成同一個問題。
+
+- [巴西](https://aeiou.now/topic/national-days/br/)
+- [中國](https://aeiou.now/topic/national-days/cn/)
+- [印尼](https://aeiou.now/topic/national-days/id/)
+- [印度](https://aeiou.now/topic/national-days/in/)
+- [日本](https://aeiou.now/topic/national-days/jp/)
+- [台灣](https://aeiou.now/topic/national-days/tw/)
+- [美國](https://aeiou.now/topic/national-days/us/)
+
+## 新年
+
+https://aeiou.now/topic/new-year/
+
+「新年」不是同一天。台灣與中國大陸過農曆正月初一，日本、美國、巴西、印尼放公曆一月一日，而印度的全國假日清單裡根本沒有一月一日——那裡的新年是三、四月的地方新年，各邦名字都不一樣。這一頁比較的是各地把哪一天當成起點，以及放幾天假。
+
+- [中國](https://aeiou.now/topic/new-year/cn/)
+- [印尼](https://aeiou.now/topic/new-year/id/)
+- [印度](https://aeiou.now/topic/new-year/in/)
+- [台灣](https://aeiou.now/topic/new-year/tw/)
+
+## 新生兒與滿月
+
+https://aeiou.now/topic/newborn-and-full-moon/
+
+新生兒有兩條不同的時間線：出生登記與家庭慶祝。日本出生届期限 14 日、印度 21 日、中國大陸 1 個月、巴西 15 日（偏遠地區可延長），台灣與印尼多為 60 日，美國則由各州規定；另一方面，日本有第七日的命名與參拜，印尼有第七日 aqiqah，台灣與中國大陸常在滿月辦酒席。這一頁把法律文件、命名祝福、探訪送禮與早期照護分開比較。
+
+- [巴西](https://aeiou.now/topic/newborn-and-full-moon/br/)
+- [中國](https://aeiou.now/topic/newborn-and-full-moon/cn/)
+- [印尼](https://aeiou.now/topic/newborn-and-full-moon/id/)
+- [印度](https://aeiou.now/topic/newborn-and-full-moon/in/)
+- [日本](https://aeiou.now/topic/newborn-and-full-moon/jp/)
+- [台灣](https://aeiou.now/topic/newborn-and-full-moon/tw/)
+- [美國](https://aeiou.now/topic/newborn-and-full-moon/us/)
+
+## 官方語言:寫在憲法裡、寫在法律裡,還是根本沒寫
+
+https://aeiou.now/topic/official-languages/
+
+印度憲法花了一整篇處理語言,第三四三條指定天城體印地語為聯邦官方語言,還附上十五年英語過渡條款;印尼憲法第三十六條只用一句話——「國家語言是印尼語」;巴西憲法第十三條同樣一句;中國憲法沒有「官方語言」這個詞,而是把「推廣全國通用的普通話」放進教育那一條的最後一句;台灣反過來,《國家語言發展法》不指定單一國語,把各固有族群的自然語言與台灣手語全部列為國家語言、一律平等;日本根本沒有法定官方語言;美國憲法與國會立法也都沒有,是二○二五年三月用行政命令指定英語的。
+
+- [巴西](https://aeiou.now/topic/official-languages/br/)
+- [中國](https://aeiou.now/topic/official-languages/cn/)
+- [印尼](https://aeiou.now/topic/official-languages/id/)
+- [印度](https://aeiou.now/topic/official-languages/in/)
+- [日本](https://aeiou.now/topic/official-languages/jp/)
+- [台灣](https://aeiou.now/topic/official-languages/tw/)
+- [美國](https://aeiou.now/topic/official-languages/us/)
+
+## 特休幾天、加班費怎麼算：七國差在哪
+
+https://aeiou.now/topic/paid-leave-and-overtime/
+
+台灣《勞動基準法》第38條把特別休假分成六級：半年3天、滿一年7天、兩年10天、三到五年每年14天、五到十年每年15天，十年以上每滿一年加1天，上限30天；沒休完不會消滅，雇主要依第38條第4項發工資。日本《勞動基準法》第39條是半年後10天，一路加到六年半的20天上限，2019年起雇主更有義務讓年資夠的員工至少休滿5天，但逾兩年未休就依第115條失效——用不完不會有錢。中國《職工帶薪年休假條例》要連續工作滿12個月才有資格，依累計工齡分5天、10天、15天三級，沒排休要按300%日工資折算（第5條）。美國聯邦完全沒有法定特休這回事——《公平勞動標準法》明文不管休假，給不給、給幾天由雇主或各州自己決定。印度過去只有《工廠法》第79條保障工廠工人（工作滿240天、每20天休1天），商店與服務業一直是各邦自訂規則、從無全國統一標準；2025年11月新的勞動法典把門檻降到180天。印尼《勞工法》第79條是滿12個月給12天，舊制六年後可休兩個月長假，修法後改成「公司可以給」、不再強制。巴西《勞動法整編》第130條給30天，但依當年度無故曠職次數遞減，曠職愈多假愈少，還可以把三分之一折現（第143條）。加班費算法差更多：台灣前2小時加1/3、再2小時加2/3；日本超過月60小時加50%；中國平日150%、假日200%、法定假日300%且不能補休抵充；美國只算週工時超過40小時的1.5倍，沒有每日規定也沒有時數上限；印度是超過法定工時一律兩倍工資；印尼第一小時1.5倍、之後2倍，但每天封頂4小時；巴西一律至少加50%，但每天最多只能加2小時。
+
+- [巴西](https://aeiou.now/topic/paid-leave-and-overtime/br/)
+- [中國](https://aeiou.now/topic/paid-leave-and-overtime/cn/)
+- [印尼](https://aeiou.now/topic/paid-leave-and-overtime/id/)
+- [印度](https://aeiou.now/topic/paid-leave-and-overtime/in/)
+- [日本](https://aeiou.now/topic/paid-leave-and-overtime/jp/)
+- [台灣](https://aeiou.now/topic/paid-leave-and-overtime/tw/)
+- [美國](https://aeiou.now/topic/paid-leave-and-overtime/us/)
+
+## 生了小孩之後,法律給你多少天
+
+https://aeiou.now/topic/parental-leave/
+
+台灣《勞動基準法》第五十條給產假八星期,受僱滿六個月工資照給;日本《勞働基準法》第六十五條走得更遠——產後八週,雇主不得讓她工作,那不是權利而是禁令;巴西《勞動法彙編》第三百九十二條是一百二十天;印尼二○二四年第四號法把產假拉到最短三個月、必要時再三個月,並逐月訂出薪資比例;而美國的 FMLA 明文寫著這段假「得為無薪」。印度更特別:憲法第四十二條要國家提供產育救濟,但第三十七條說這一篇「不得由任何法院執行」。
+
+- [巴西](https://aeiou.now/topic/parental-leave/br/)
+- [中國](https://aeiou.now/topic/parental-leave/cn/)
+- [印尼](https://aeiou.now/topic/parental-leave/id/)
+- [印度](https://aeiou.now/topic/parental-leave/in/)
+- [日本](https://aeiou.now/topic/parental-leave/jp/)
+- [台灣](https://aeiou.now/topic/parental-leave/tw/)
+- [美國](https://aeiou.now/topic/parental-leave/us/)
+
+## 寵物準備與防災
+
+https://aeiou.now/topic/pet-preparedness/
+
+寵物準備不是多買一包飼料，而是把「如果今天停電、淹水、搬家、旅行或必須撤離」先拆成可執行的步驟：身分標示與醫療紀錄、食水與常用藥、每隻動物合適的外出籠或牽繩、可接受寵物的去處、替代照顧者，以及失聯後怎麼找回。日本、台灣、美國的官方指引都把這些工作放在災害前；但同行避難不等於人與寵物一定同室，真正能進哪個避難場所仍要問當地規則。這一頁也把日常搬家與旅行準備納入，區分犬貓、鳥類、爬蟲與需要特殊溫度或藥物的動物，不用一張清單假裝適合所有家庭。
+
+- [巴西](https://aeiou.now/topic/pet-preparedness/br/)
+- [中國](https://aeiou.now/topic/pet-preparedness/cn/)
+- [印尼](https://aeiou.now/topic/pet-preparedness/id/)
+- [印度](https://aeiou.now/topic/pet-preparedness/in/)
+- [日本](https://aeiou.now/topic/pet-preparedness/jp/)
+- [台灣](https://aeiou.now/topic/pet-preparedness/tw/)
+- [美國](https://aeiou.now/topic/pet-preparedness/us/)
+
+## 寵物與家庭
+
+https://aeiou.now/topic/pets-and-family/
+
+把寵物當家人，不代表規則會把牠當成人：台灣把犬、貓與其他伴侶動物放進「寵物」定義並要求飼主提供必要醫療，日本把終生飼養、鄰里責任與身分標示列為飼主要務，中國大陸的養犬登記多落在城市規範；印度、印尼、巴西與美國則分別從動物福利、公共衛生、地方自治與商業運輸切出不同邊界。這一頁不替任何地方下「愛不愛寵物」的結論，而是看誰負責、哪些動物被納入，以及家庭與公共空間怎麼協商。
+
+- [巴西](https://aeiou.now/topic/pets-and-family/br/)
+- [中國](https://aeiou.now/topic/pets-and-family/cn/)
+- [印尼](https://aeiou.now/topic/pets-and-family/id/)
+- [印度](https://aeiou.now/topic/pets-and-family/in/)
+- [日本](https://aeiou.now/topic/pets-and-family/jp/)
+- [台灣](https://aeiou.now/topic/pets-and-family/tw/)
+- [美國](https://aeiou.now/topic/pets-and-family/us/)
+
+## 求婚與訂婚
+
+https://aeiou.now/topic/proposals-and-engagements/
+
+訂婚不等於結婚：台灣訂婚年齡 17 歲、結婚 18 歲，而且不能要求對方強迫履行婚約；印尼 2019 年後男女最低結婚年齡都是 19 歲，lamaran 先是家庭公開承認；中國大陸的爭議常落在彩禮返還，日本沒有專門婚約法，印度受各社群屬人法影響，巴西 18 歲可自由結婚、美國則由各州處理戒指歸屬。這一頁比較求婚的社交意義、家庭協商、同意與法律重量。
+
+- [巴西](https://aeiou.now/topic/proposals-and-engagements/br/)
+- [中國](https://aeiou.now/topic/proposals-and-engagements/cn/)
+- [印尼](https://aeiou.now/topic/proposals-and-engagements/id/)
+- [印度](https://aeiou.now/topic/proposals-and-engagements/in/)
+- [日本](https://aeiou.now/topic/proposals-and-engagements/jp/)
+- [台灣](https://aeiou.now/topic/proposals-and-engagements/tw/)
+- [美國](https://aeiou.now/topic/proposals-and-engagements/us/)
+
+## 齋戒月與開齋節
+
+https://aeiou.now/topic/ramadan-and-eid/
+
+印尼的齋戒月初一不是提前固定的節日日期；查 2027 年印尼齋戒月時間時，要等宗教部在前一晚以 sidang isbat 公告，開齋節再依 Shawwal 初一與政府公告安排。台灣不把開齋節列為法定假日；這一頁把印尼「何時開始齋戒」與「何時放開齋節假」分開列出，再比較印度、台灣、美國與中國大陸的制度差異；查 2027 年開齋節日期時，先看曆算估計，再留意官方公告是否已確認。
+
+- [中國](https://aeiou.now/topic/ramadan-and-eid/cn/)
+- [印尼](https://aeiou.now/topic/ramadan-and-eid/id/)
+- [印度](https://aeiou.now/topic/ramadan-and-eid/in/)
+- [台灣](https://aeiou.now/topic/ramadan-and-eid/tw/)
+- [美國](https://aeiou.now/topic/ramadan-and-eid/us/)
+- [巴西](https://aeiou.now/topic/ramadan-and-eid/br/)
+- [日本](https://aeiou.now/topic/ramadan-and-eid/jp/)
+
+## 宗教與國家:憲法把兩者放在什麼距離
+
+https://aeiou.now/topic/religion-and-the-state/
+
+印尼憲法第二十九條第一項的第一句就是「國家以至高神性為基礎」;巴西憲法第十九條反過來,禁止聯邦、州與各市設立宗教、補助宗教或與宗教維持依賴或結盟關係;日本憲法第二十條寫得更細——任何宗教團體不得從國家受特權,而且國家及其機關不得從事宗教教育或任何宗教活動,第八十九條再禁止公款支出於宗教組織;美國第一修正案是「國會不得制定關於設立宗教的法律」;中國憲法第三十六條保障信仰自由,但保護的是「正常的宗教活動」,並寫明宗教事務不受外國勢力支配;印度序言自稱世俗共和國,同時第二十五條把「傳播」宗教也列進自由裡;台灣憲法第十三條只有七個字:「人民有信仰宗教之自由。」
+
+- [巴西](https://aeiou.now/topic/religion-and-the-state/br/)
+- [中國](https://aeiou.now/topic/religion-and-the-state/cn/)
+- [印尼](https://aeiou.now/topic/religion-and-the-state/id/)
+- [印度](https://aeiou.now/topic/religion-and-the-state/in/)
+- [日本](https://aeiou.now/topic/religion-and-the-state/jp/)
+- [台灣](https://aeiou.now/topic/religion-and-the-state/tw/)
+- [美國](https://aeiou.now/topic/religion-and-the-state/us/)
+
+## 租屋押金與房東權限:押幾個月、能不能說終止就終止
+
+https://aeiou.now/topic/renting-a-home/
+
+台灣《租賃住宅市場發展及管理條例》第7條把押金封頂在二個月租金總額,第10條列出房東可提前終止租約的五款情形,其中四款須「終止前三十日」書面通知,收回重建則要「終止前三個月」;中國2025年9月15日施行的《住房租賃條例》(國務院令第812號)第十條只要求押金金額、返還時間與扣減情形寫進合約、無正當理由不得扣減,卻沒有設金額上限——同樣談押金,兩岸給的答案完全不同。日本民法第622條之2規定敷金於租賃關係終了、返還房屋時應扣除欠款後歸還,但日本另有法律沒規定的「禮金」——付給房東、通常不退還的謝禮;借地借家法第28條則要求房東拒絕續約或終止租約須有「正當事由」,承租人因此不會被無理由掃地出門。美國聯邦完全沒有統一規定,住房及城市發展部(HUD)只管反歧視,押金上限交給各州自訂,加州民法典第1950.5條經2024年7月上路的AB 12修法後,把上限從原本二至三個月降到一個月。印度2021年的《標準租賃法》只是供各邦採用的示範法,建議住宅押金上限二個月、非住宅六個月,但多數邦仍沿用自己的舊法。印尼租賃仍依沿用自荷屬時期的《民法典》第1548條起規範,押金金額全憑雙方約定、法律不設上限,而且房客不搬,房東不能自行趕人,得走法院程序。巴西《租賃法》第38條把押金上限訂在三個月租金,須存入儲蓄帳戶;第46條讓期限達三十個月以上的合約到期時,房東可不附理由收回房屋。
+
+- [巴西](https://aeiou.now/topic/renting-a-home/br/)
+- [中國](https://aeiou.now/topic/renting-a-home/cn/)
+- [印尼](https://aeiou.now/topic/renting-a-home/id/)
+- [印度](https://aeiou.now/topic/renting-a-home/in/)
+- [日本](https://aeiou.now/topic/renting-a-home/jp/)
+- [台灣](https://aeiou.now/topic/renting-a-home/tw/)
+- [美國](https://aeiou.now/topic/renting-a-home/us/)
+
+## 居留證幾天內辦？換住址、換工作要不要通報
+
+https://aeiou.now/topic/residency-and-visas/
+
+台灣的外僑居留證由移民署核發，入境後30日內要辦，地址變更也是30日內，逾期依《入出國及移民法》罰新台幣2,000至10,000元；日本的在留卡則是14日——不管是初次登記住所還是換工作後的所屬機關異動，《入管法》都定在14日內。中國大陸的居留證件登記事項變更是10日內（《出境入境管理法》第33條），借宿非旅館處所更短，只有24小時（第39條）。美國沒有全國性的居留登記機關，但已登記外國人的地址變更仍受聯邦法《美國法典》第8編第1305條約束，一樣是10日內書面通知。印度靠簽證類別而非統一居留卡運作，效期超過180天的工作或學生簽證要在入境後14日內向FRRO登記；印尼則是住址變更最長14日，擔保人也要連帶申報；巴西最寬鬆，臨時簽證持有人有90日可以去聯邦警察辦登記。工作許可與居留證是不是同一張，七國分成兩派：台灣、中國、印尼是兩張證、兩個機關；日本的就業資格直接寫進居留資格本身；美國的綠卡本身就是工作授權的證明。
+
+- [巴西](https://aeiou.now/topic/residency-and-visas/br/)
+- [中國](https://aeiou.now/topic/residency-and-visas/cn/)
+- [印尼](https://aeiou.now/topic/residency-and-visas/id/)
+- [印度](https://aeiou.now/topic/residency-and-visas/in/)
+- [日本](https://aeiou.now/topic/residency-and-visas/jp/)
+- [台灣](https://aeiou.now/topic/residency-and-visas/tw/)
+- [美國](https://aeiou.now/topic/residency-and-visas/us/)
+
+## 購物節
+
+https://aeiou.now/topic/shopping-festivals/
+
+購物節是這些主題裡唯一由零售業自己造出來、政府事後才追認或管制的日子。美國聯邦法裡沒有黑色星期五，只有感恩節；中國的雙十一由市場監管總局每年發合規提示，還把折扣基準寫死成「促銷前七日內最低成交價」；印尼的 Harbolnas 由貿易部掛名，部長本人到電商辦公室直播賣貨；印度不問折扣真不真，改問介面騙不騙人。同一天買同一件東西，能不能退、退幾天、運費誰付，答案在七個市場完全不同。
+
+- [巴西](https://aeiou.now/topic/shopping-festivals/br/)
+- [中國](https://aeiou.now/topic/shopping-festivals/cn/)
+- [印尼](https://aeiou.now/topic/shopping-festivals/id/)
+- [印度](https://aeiou.now/topic/shopping-festivals/in/)
+- [日本](https://aeiou.now/topic/shopping-festivals/jp/)
+- [台灣](https://aeiou.now/topic/shopping-festivals/tw/)
+- [美國](https://aeiou.now/topic/shopping-festivals/us/)
+
+## 七夕
+
+https://aeiou.now/topic/tanabata-and-qixi/
+
+同一個牛郎織女的故事、同一個農曆七月初七，在三個社會被辦成三種不同的節日。台灣的七夕是情人節，也是七娘媽生——台南的「做十六歲」成年禮就辦在這一天；中國把它列進第一批國家級非物質文化遺產，卻連「明列但不放假」的那份名單都沒進；日本在明治改曆後把它整個搬到國曆七月七日，仙台則往後挪一個月、固定在八月六日到八日。這一頁比較的是同一個日期怎麼在三個地方分岔，以及哪裡放假、哪裡只剩下商業檔期。
+
+- [中國](https://aeiou.now/topic/tanabata-and-qixi/cn/)
+- [日本](https://aeiou.now/topic/tanabata-and-qixi/jp/)
+- [台灣](https://aeiou.now/topic/tanabata-and-qixi/tw/)
+- [巴西](https://aeiou.now/topic/tanabata-and-qixi/br/)
+- [印尼](https://aeiou.now/topic/tanabata-and-qixi/id/)
+- [印度](https://aeiou.now/topic/tanabata-and-qixi/in/)
+- [美國](https://aeiou.now/topic/tanabata-and-qixi/us/)
+
+## 教師節
+
+https://aeiou.now/topic/teachers-day/
+
+七個地方的教師節落在七個不同日期，選日期的理由也完全不同：台灣選孔子誕辰，中國大陸由全國人大常委會決議選在九月十日，印度用哲學家出身的第二任總統生日，巴西溯源到一八二七年的辦學法令，印尼用全國教師工會成立的那一天，新加坡跟著學校行事曆在九月初，美國則做成五月的一整週。放不放假也只有台灣一個是；想查 2027 Teachers' Day date，還要分清楚全國假日、紀念日、學校行事曆與自行安排的感謝週。
+
+- [巴西](https://aeiou.now/topic/teachers-day/br/)
+- [中國](https://aeiou.now/topic/teachers-day/cn/)
+- [印尼](https://aeiou.now/topic/teachers-day/id/)
+- [印度](https://aeiou.now/topic/teachers-day/in/)
+- [新加坡](https://aeiou.now/topic/teachers-day/sg/)
+- [台灣](https://aeiou.now/topic/teachers-day/tw/)
+- [美國](https://aeiou.now/topic/teachers-day/us/)
+- [日本](https://aeiou.now/topic/teachers-day/jp/)
+
+## 投票這件事,各國要求的不一樣
+
+https://aeiou.now/topic/voting-and-elections/
+
+巴西憲法第十四條把投票寫成十八到七十歲公民的義務,不去要說明理由;台灣《公職人員選舉罷免法》第十七條規定「應於戶籍地投票所投票」,沒有不在籍投票,於是投票日變成一次全島的返鄉移動;中國憲法第九十七條把直接選舉留在縣、鄉這一級,省與設區的市由下一級人大選出;美國的選舉日寫在聯邦法典裡是「十一月第一個星期一之後的星期二」,而那天不是假日。同一個動作,七個地方對「誰可以投、在哪裡投、那天算不算你的時間」給了七個答案。
+
+- [巴西](https://aeiou.now/topic/voting-and-elections/br/)
+- [中國](https://aeiou.now/topic/voting-and-elections/cn/)
+- [印尼](https://aeiou.now/topic/voting-and-elections/id/)
+- [印度](https://aeiou.now/topic/voting-and-elections/in/)
+- [日本](https://aeiou.now/topic/voting-and-elections/jp/)
+- [台灣](https://aeiou.now/topic/voting-and-elections/tw/)
+- [美國](https://aeiou.now/topic/voting-and-elections/us/)
+
+## 戰歿者與退伍軍人
+
+https://aeiou.now/topic/war-dead-and-veterans/
+
+美國把「死者」與「生還者」拆成兩個聯邦假日：五月的陣亡將士紀念日給戰死的人，十一月十一日的退伍軍人節給活著回來的人。其他六個國家幾乎都只設了一天，而且多半不放假——台灣的軍人節放不放由國防部自己決定，日本的八月十五日連法律都沒有、只是一紙內閣會議決定，印尼的英雄節在總統令裡被明文歸類為「不是假日的國定日」。
+
+- [巴西](https://aeiou.now/topic/war-dead-and-veterans/br/)
+- [中國](https://aeiou.now/topic/war-dead-and-veterans/cn/)
+- [印尼](https://aeiou.now/topic/war-dead-and-veterans/id/)
+- [印度](https://aeiou.now/topic/war-dead-and-veterans/in/)
+- [日本](https://aeiou.now/topic/war-dead-and-veterans/jp/)
+- [台灣](https://aeiou.now/topic/war-dead-and-veterans/tw/)
+- [美國](https://aeiou.now/topic/war-dead-and-veterans/us/)
+
+## 婚禮與婚俗
+
+https://aeiou.now/topic/weddings-and-customs/
+
+婚禮的法律入口各不相同：台灣必須到戶政事務所登記才生效，日本提出婚姻届就成立，巴西以民事登記為核心，印尼通常把宗教儀式與國家登記疊在一起，印度可走各社群屬人法或《特別婚姻法》，中國大陸法定結婚年齡為男 22、女 20，美國則由各州管理結婚證。儀式、宴客與服裝可以另擇日期，也會因新人協商而改變。這一頁先分清「合法結婚」與「辦婚禮」，再比較家族與地方婚俗。
+
+- [巴西](https://aeiou.now/topic/weddings-and-customs/br/)
+- [中國](https://aeiou.now/topic/weddings-and-customs/cn/)
+- [印尼](https://aeiou.now/topic/weddings-and-customs/id/)
+- [印度](https://aeiou.now/topic/weddings-and-customs/in/)
+- [日本](https://aeiou.now/topic/weddings-and-customs/jp/)
+- [台灣](https://aeiou.now/topic/weddings-and-customs/tw/)
+- [美國](https://aeiou.now/topic/weddings-and-customs/us/)
+
+## 婦女節
+
+https://aeiou.now/topic/womens-day/
+
+三月八日在七個地方是同一天，法律待遇卻完全不同。中國給婦女放半天有薪假，寫在國務院的放假辦法裡；台灣把婦女節列為「節日」，但條例明講不放假；美國乾脆不用這一天，整個三月都是婦女歷史月；巴西的國定婦女節本來在四月三十日，二〇二五年才用新法搬到三月八日。這一頁比較同一個日子被各自的制度承認到什麼程度。查巴西年份時，應優先看新法與最新日曆。
+
+- [巴西](https://aeiou.now/topic/womens-day/br/)
+- [中國](https://aeiou.now/topic/womens-day/cn/)
+- [印尼](https://aeiou.now/topic/womens-day/id/)
+- [印度](https://aeiou.now/topic/womens-day/in/)
+- [日本](https://aeiou.now/topic/womens-day/jp/)
+- [台灣](https://aeiou.now/topic/womens-day/tw/)
+- [美國](https://aeiou.now/topic/womens-day/us/)
+
+## 年終獎金與十三個月薪水
+
+https://aeiou.now/topic/year-end-bonus/
+
+台灣的年終獎金依《勞動基準法》第二十九條,是「營業年度終了結算有盈餘」時才分配的獎金——有條件、沒有期限、沒有罰則,實際發多少由公司決定。巴西完全相反:十三薪是一九六二年立法的義務,第一期十一月三十日前、第二期十二月二十日前,遲了要罰。印尼的 THR 必須在宗教節日前七天付清、不准分期,遲付罰百分之五。同一件「年底多一筆錢」的事,七個市場從法律義務到純粹慣例都有,而那決定了它到底靠不靠得住。
+
+- [巴西](https://aeiou.now/topic/year-end-bonus/br/)
+- [中國](https://aeiou.now/topic/year-end-bonus/cn/)
+- [印尼](https://aeiou.now/topic/year-end-bonus/id/)
+- [印度](https://aeiou.now/topic/year-end-bonus/in/)
+- [日本](https://aeiou.now/topic/year-end-bonus/jp/)
+- [台灣](https://aeiou.now/topic/year-end-bonus/tw/)
+- [美國](https://aeiou.now/topic/year-end-bonus/us/)
